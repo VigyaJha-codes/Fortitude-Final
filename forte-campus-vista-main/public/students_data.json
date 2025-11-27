@@ -1,0 +1,4202 @@
+[
+  {
+    "name": "Baiju Desai",
+    "email": "Stud_baiju_1@fortitude.in",
+    "password": "baiju1",
+    "roll_no": "221001",
+    "course": "B.Tech CSE (AI & ML)",
+    "dob": "29-07-2003",
+    "year": "Third Year",
+    "cgpa": 6.33,
+    "subjects": {
+      "Machine Learning": {
+        "Internal": 24,
+        "External": 52,
+        "Total": 76,
+        "Attendance": 66
+      },
+      "Artificial Intelligence": {
+        "Internal": 18,
+        "External": 59,
+        "Total": 77,
+        "Attendance": 94
+      },
+      "Python Programming": {
+        "Internal": 26,
+        "External": 56,
+        "Total": 82,
+        "Attendance": 81
+      },
+      "Data Structures": {
+        "Internal": 18,
+        "External": 45,
+        "Total": 63,
+        "Attendance": 68
+      },
+      "Linear Algebra": {
+        "Internal": 23,
+        "External": 70,
+        "Total": 93,
+        "Attendance": 81
+      }
+    }
+  },
+  {
+    "name": "Tiya Jani",
+    "email": "Stud_tiya_2@fortitude.in",
+    "password": "tiya2",
+    "roll_no": "221002",
+    "course": "B.Tech CSE (Cyber Security)",
+    "dob": "06-02-2005",
+    "year": "Second Year",
+    "cgpa": 6.01,
+    "subjects": {
+      "Network Security": {
+        "Internal": 24,
+        "External": 40,
+        "Total": 64,
+        "Attendance": 98
+      },
+      "Ethical Hacking": {
+        "Internal": 24,
+        "External": 39,
+        "Total": 63,
+        "Attendance": 60
+      },
+      "Cryptography": {
+        "Internal": 23,
+        "External": 63,
+        "Total": 86,
+        "Attendance": 66
+      },
+      "Cyber Laws": {
+        "Internal": 18,
+        "External": 40,
+        "Total": 58,
+        "Attendance": 69
+      },
+      "Operating Systems": {
+        "Internal": 20,
+        "External": 36,
+        "Total": 56,
+        "Attendance": 78
+      }
+    }
+  },
+  {
+    "name": "Emir Tripathi",
+    "email": "Stud_emir_3@fortitude.in",
+    "password": "emir3",
+    "roll_no": "221003",
+    "course": "B.Tech ME",
+    "dob": "27-02-2003",
+    "year": "Final Year",
+    "cgpa": 7.01,
+    "subjects": {
+      "Thermodynamics": {
+        "Internal": 18,
+        "External": 54,
+        "Total": 72,
+        "Attendance": 81
+      },
+      "Fluid Mechanics": {
+        "Internal": 26,
+        "External": 65,
+        "Total": 91,
+        "Attendance": 73
+      },
+      "Manufacturing Processes": {
+        "Internal": 27,
+        "External": 68,
+        "Total": 95,
+        "Attendance": 96
+      },
+      "Machine Design": {
+        "Internal": 30,
+        "External": 55,
+        "Total": 85,
+        "Attendance": 60
+      },
+      "Engineering Mechanics": {
+        "Internal": 24,
+        "External": 67,
+        "Total": 91,
+        "Attendance": 87
+      }
+    }
+  },
+  {
+    "name": "Vaibhav Loyal",
+    "email": "Stud_vaibhav_4@fortitude.in",
+    "password": "vaibhav4",
+    "roll_no": "221004",
+    "course": "B.Tech Electrical",
+    "dob": "14-08-2007",
+    "year": "Final Year",
+    "cgpa": 7.98,
+    "subjects": {
+      "Power Systems": {
+        "Internal": 24,
+        "External": 58,
+        "Total": 82,
+        "Attendance": 92
+      },
+      "Electrical Machines": {
+        "Internal": 18,
+        "External": 46,
+        "Total": 64,
+        "Attendance": 65
+      },
+      "Circuit Theory": {
+        "Internal": 25,
+        "External": 51,
+        "Total": 76,
+        "Attendance": 70
+      },
+      "Control Systems": {
+        "Internal": 23,
+        "External": 56,
+        "Total": 79,
+        "Attendance": 95
+      },
+      "Renewable Energy Sources": {
+        "Internal": 24,
+        "External": 39,
+        "Total": 63,
+        "Attendance": 89
+      }
+    }
+  },
+  {
+    "name": "Shamik Garde",
+    "email": "Stud_shamik_5@fortitude.in",
+    "password": "shamik5",
+    "roll_no": "221005",
+    "course": "B.Tech ME",
+    "dob": "11-04-2003",
+    "year": "Third Year",
+    "cgpa": 6.06,
+    "subjects": {
+      "Thermodynamics": {
+        "Internal": 27,
+        "External": 40,
+        "Total": 67,
+        "Attendance": 83
+      },
+      "Fluid Mechanics": {
+        "Internal": 18,
+        "External": 57,
+        "Total": 75,
+        "Attendance": 74
+      },
+      "Manufacturing Processes": {
+        "Internal": 24,
+        "External": 69,
+        "Total": 93,
+        "Attendance": 92
+      },
+      "Machine Design": {
+        "Internal": 29,
+        "External": 38,
+        "Total": 67,
+        "Attendance": 78
+      },
+      "Engineering Mechanics": {
+        "Internal": 25,
+        "External": 49,
+        "Total": 74,
+        "Attendance": 94
+      }
+    }
+  },
+  {
+    "name": "Indranil Bir",
+    "email": "Stud_indranil_6@fortitude.in",
+    "password": "indranil6",
+    "roll_no": "221006",
+    "course": "B.Tech Civil",
+    "dob": "13-09-2005",
+    "year": "Second Year",
+    "cgpa": 6.58,
+    "subjects": {
+      "Structural Engineering": {
+        "Internal": 26,
+        "External": 63,
+        "Total": 89,
+        "Attendance": 84
+      },
+      "Building Materials": {
+        "Internal": 30,
+        "External": 64,
+        "Total": 94,
+        "Attendance": 62
+      },
+      "Environmental Engineering": {
+        "Internal": 18,
+        "External": 43,
+        "Total": 61,
+        "Attendance": 89
+      },
+      "Surveying": {
+        "Internal": 21,
+        "External": 36,
+        "Total": 57,
+        "Attendance": 76
+      },
+      "Fluid Mechanics": {
+        "Internal": 30,
+        "External": 57,
+        "Total": 87,
+        "Attendance": 77
+      }
+    }
+  },
+  {
+    "name": "Jhanvi Ganesan",
+    "email": "Stud_jhanvi_7@fortitude.in",
+    "password": "jhanvi7",
+    "roll_no": "221007",
+    "course": "B.Tech ME",
+    "dob": "01-12-2004",
+    "year": "Final Year",
+    "cgpa": 6.0,
+    "subjects": {
+      "Thermodynamics": {
+        "Internal": 27,
+        "External": 39,
+        "Total": 66,
+        "Attendance": 92
+      },
+      "Fluid Mechanics": {
+        "Internal": 23,
+        "External": 40,
+        "Total": 63,
+        "Attendance": 65
+      },
+      "Manufacturing Processes": {
+        "Internal": 24,
+        "External": 35,
+        "Total": 59,
+        "Attendance": 94
+      },
+      "Machine Design": {
+        "Internal": 24,
+        "External": 39,
+        "Total": 63,
+        "Attendance": 94
+      },
+      "Engineering Mechanics": {
+        "Internal": 29,
+        "External": 60,
+        "Total": 89,
+        "Attendance": 61
+      }
+    }
+  },
+  {
+    "name": "Ishaan Acharya",
+    "email": "Stud_ishaan_8@fortitude.in",
+    "password": "ishaan8",
+    "roll_no": "221008",
+    "course": "B.Tech ECE",
+    "dob": "18-07-2006",
+    "year": "Third Year",
+    "cgpa": 9.63,
+    "subjects": {
+      "Digital Electronics": {
+        "Internal": 18,
+        "External": 70,
+        "Total": 88,
+        "Attendance": 81
+      },
+      "Microprocessors": {
+        "Internal": 24,
+        "External": 57,
+        "Total": 81,
+        "Attendance": 61
+      },
+      "Signal Processing": {
+        "Internal": 28,
+        "External": 45,
+        "Total": 73,
+        "Attendance": 86
+      },
+      "Analog Circuits": {
+        "Internal": 19,
+        "External": 44,
+        "Total": 63,
+        "Attendance": 83
+      },
+      "Control Systems": {
+        "Internal": 28,
+        "External": 50,
+        "Total": 78,
+        "Attendance": 65
+      }
+    }
+  },
+  {
+    "name": "Urvi Bassi",
+    "email": "Stud_urvi_9@fortitude.in",
+    "password": "urvi9",
+    "roll_no": "221009",
+    "course": "B.Tech CSE (AI & ML)",
+    "dob": "17-01-2006",
+    "year": "Final Year",
+    "cgpa": 8.04,
+    "subjects": {
+      "Machine Learning": {
+        "Internal": 20,
+        "External": 53,
+        "Total": 73,
+        "Attendance": 84
+      },
+      "Artificial Intelligence": {
+        "Internal": 23,
+        "External": 43,
+        "Total": 66,
+        "Attendance": 94
+      },
+      "Python Programming": {
+        "Internal": 23,
+        "External": 68,
+        "Total": 91,
+        "Attendance": 67
+      },
+      "Data Structures": {
+        "Internal": 28,
+        "External": 45,
+        "Total": 73,
+        "Attendance": 97
+      },
+      "Linear Algebra": {
+        "Internal": 24,
+        "External": 62,
+        "Total": 86,
+        "Attendance": 63
+      }
+    }
+  },
+  {
+    "name": "Darshit Aggarwal",
+    "email": "Stud_darshit_10@fortitude.in",
+    "password": "darshit10",
+    "roll_no": "221010",
+    "course": "B.Tech CSE (IoT)",
+    "dob": "08-07-2005",
+    "year": "Final Year",
+    "cgpa": 8.54,
+    "subjects": {
+      "Internet of Things": {
+        "Internal": 23,
+        "External": 63,
+        "Total": 86,
+        "Attendance": 88
+      },
+      "Embedded Systems": {
+        "Internal": 22,
+        "External": 62,
+        "Total": 84,
+        "Attendance": 61
+      },
+      "Sensor Networks": {
+        "Internal": 20,
+        "External": 68,
+        "Total": 88,
+        "Attendance": 80
+      },
+      "Microcontrollers": {
+        "Internal": 26,
+        "External": 67,
+        "Total": 93,
+        "Attendance": 95
+      },
+      "Wireless Communication": {
+        "Internal": 20,
+        "External": 56,
+        "Total": 76,
+        "Attendance": 92
+      }
+    }
+  },
+  {
+    "name": "Sana Kapur",
+    "email": "Stud_sana_11@fortitude.in",
+    "password": "sana11",
+    "roll_no": "221011",
+    "course": "B.Tech CSE (Data Science)",
+    "dob": "14-09-2003",
+    "year": "Third Year",
+    "cgpa": 6.85,
+    "subjects": {
+      "Data Science Fundamentals": {
+        "Internal": 27,
+        "External": 56,
+        "Total": 83,
+        "Attendance": 65
+      },
+      "Statistics for DS": {
+        "Internal": 22,
+        "External": 67,
+        "Total": 89,
+        "Attendance": 75
+      },
+      "Database Systems": {
+        "Internal": 21,
+        "External": 55,
+        "Total": 76,
+        "Attendance": 76
+      },
+      "Python Programming": {
+        "Internal": 24,
+        "External": 37,
+        "Total": 61,
+        "Attendance": 92
+      },
+      "Machine Learning": {
+        "Internal": 19,
+        "External": 47,
+        "Total": 66,
+        "Attendance": 92
+      }
+    }
+  },
+  {
+    "name": "Azad Batra",
+    "email": "Stud_azad_12@fortitude.in",
+    "password": "azad12",
+    "roll_no": "221012",
+    "course": "B.Tech CSE (Cyber Security)",
+    "dob": "16-01-2004",
+    "year": "First Year",
+    "cgpa": 6.74,
+    "subjects": {
+      "Network Security": {
+        "Internal": 27,
+        "External": 49,
+        "Total": 76,
+        "Attendance": 65
+      },
+      "Ethical Hacking": {
+        "Internal": 27,
+        "External": 55,
+        "Total": 82,
+        "Attendance": 65
+      },
+      "Cryptography": {
+        "Internal": 23,
+        "External": 70,
+        "Total": 93,
+        "Attendance": 94
+      },
+      "Cyber Laws": {
+        "Internal": 20,
+        "External": 69,
+        "Total": 89,
+        "Attendance": 68
+      },
+      "Operating Systems": {
+        "Internal": 30,
+        "External": 65,
+        "Total": 95,
+        "Attendance": 91
+      }
+    }
+  },
+  {
+    "name": "Gokul Subramanian",
+    "email": "Stud_gokul_13@fortitude.in",
+    "password": "gokul13",
+    "roll_no": "221013",
+    "course": "B.Tech ME",
+    "dob": "05-01-2003",
+    "year": "First Year",
+    "cgpa": 6.98,
+    "subjects": {
+      "Thermodynamics": {
+        "Internal": 27,
+        "External": 66,
+        "Total": 93,
+        "Attendance": 81
+      },
+      "Fluid Mechanics": {
+        "Internal": 24,
+        "External": 49,
+        "Total": 73,
+        "Attendance": 92
+      },
+      "Manufacturing Processes": {
+        "Internal": 20,
+        "External": 35,
+        "Total": 55,
+        "Attendance": 98
+      },
+      "Machine Design": {
+        "Internal": 27,
+        "External": 66,
+        "Total": 93,
+        "Attendance": 81
+      },
+      "Engineering Mechanics": {
+        "Internal": 29,
+        "External": 42,
+        "Total": 71,
+        "Attendance": 63
+      }
+    }
+  },
+  {
+    "name": "Riaan Kale",
+    "email": "Stud_riaan_14@fortitude.in",
+    "password": "riaan14",
+    "roll_no": "221014",
+    "course": "B.Tech ECE",
+    "dob": "17-09-2007",
+    "year": "Final Year",
+    "cgpa": 7.37,
+    "subjects": {
+      "Digital Electronics": {
+        "Internal": 28,
+        "External": 61,
+        "Total": 89,
+        "Attendance": 80
+      },
+      "Microprocessors": {
+        "Internal": 23,
+        "External": 48,
+        "Total": 71,
+        "Attendance": 88
+      },
+      "Signal Processing": {
+        "Internal": 23,
+        "External": 47,
+        "Total": 70,
+        "Attendance": 71
+      },
+      "Analog Circuits": {
+        "Internal": 24,
+        "External": 38,
+        "Total": 62,
+        "Attendance": 86
+      },
+      "Control Systems": {
+        "Internal": 24,
+        "External": 67,
+        "Total": 91,
+        "Attendance": 76
+      }
+    }
+  },
+  {
+    "name": "Anvi Deo",
+    "email": "Stud_anvi_15@fortitude.in",
+    "password": "anvi15",
+    "roll_no": "221015",
+    "course": "B.Tech CSE (IoT)",
+    "dob": "29-10-2006",
+    "year": "Final Year",
+    "cgpa": 7.4,
+    "subjects": {
+      "Internet of Things": {
+        "Internal": 22,
+        "External": 42,
+        "Total": 64,
+        "Attendance": 76
+      },
+      "Embedded Systems": {
+        "Internal": 26,
+        "External": 55,
+        "Total": 81,
+        "Attendance": 63
+      },
+      "Sensor Networks": {
+        "Internal": 24,
+        "External": 38,
+        "Total": 62,
+        "Attendance": 97
+      },
+      "Microcontrollers": {
+        "Internal": 24,
+        "External": 54,
+        "Total": 78,
+        "Attendance": 66
+      },
+      "Wireless Communication": {
+        "Internal": 25,
+        "External": 55,
+        "Total": 80,
+        "Attendance": 75
+      }
+    }
+  },
+  {
+    "name": "Armaan Sodhi",
+    "email": "Stud_armaan_16@fortitude.in",
+    "password": "armaan16",
+    "roll_no": "221016",
+    "course": "B.Tech Civil",
+    "dob": "05-06-2005",
+    "year": "Third Year",
+    "cgpa": 9.2,
+    "subjects": {
+      "Structural Engineering": {
+        "Internal": 27,
+        "External": 57,
+        "Total": 84,
+        "Attendance": 75
+      },
+      "Building Materials": {
+        "Internal": 29,
+        "External": 64,
+        "Total": 93,
+        "Attendance": 92
+      },
+      "Environmental Engineering": {
+        "Internal": 27,
+        "External": 52,
+        "Total": 79,
+        "Attendance": 81
+      },
+      "Surveying": {
+        "Internal": 18,
+        "External": 46,
+        "Total": 64,
+        "Attendance": 67
+      },
+      "Fluid Mechanics": {
+        "Internal": 18,
+        "External": 62,
+        "Total": 80,
+        "Attendance": 91
+      }
+    }
+  },
+  {
+    "name": "Shlok Lal",
+    "email": "Stud_shlok_17@fortitude.in",
+    "password": "shlok17",
+    "roll_no": "221017",
+    "course": "B.Tech CSE (IoT)",
+    "dob": "10-12-2006",
+    "year": "Final Year",
+    "cgpa": 8.03,
+    "subjects": {
+      "Internet of Things": {
+        "Internal": 25,
+        "External": 69,
+        "Total": 94,
+        "Attendance": 69
+      },
+      "Embedded Systems": {
+        "Internal": 23,
+        "External": 58,
+        "Total": 81,
+        "Attendance": 74
+      },
+      "Sensor Networks": {
+        "Internal": 27,
+        "External": 37,
+        "Total": 64,
+        "Attendance": 89
+      },
+      "Microcontrollers": {
+        "Internal": 26,
+        "External": 53,
+        "Total": 79,
+        "Attendance": 97
+      },
+      "Wireless Communication": {
+        "Internal": 18,
+        "External": 55,
+        "Total": 73,
+        "Attendance": 84
+      }
+    }
+  },
+  {
+    "name": "Lagan Tara",
+    "email": "Stud_lagan_18@fortitude.in",
+    "password": "lagan18",
+    "roll_no": "221018",
+    "course": "B.Tech CSE (Cyber Security)",
+    "dob": "26-04-2007",
+    "year": "First Year",
+    "cgpa": 9.31,
+    "subjects": {
+      "Network Security": {
+        "Internal": 22,
+        "External": 45,
+        "Total": 67,
+        "Attendance": 86
+      },
+      "Ethical Hacking": {
+        "Internal": 23,
+        "External": 62,
+        "Total": 85,
+        "Attendance": 62
+      },
+      "Cryptography": {
+        "Internal": 27,
+        "External": 35,
+        "Total": 62,
+        "Attendance": 91
+      },
+      "Cyber Laws": {
+        "Internal": 28,
+        "External": 45,
+        "Total": 73,
+        "Attendance": 72
+      },
+      "Operating Systems": {
+        "Internal": 18,
+        "External": 52,
+        "Total": 70,
+        "Attendance": 93
+      }
+    }
+  },
+  {
+    "name": "Jivika Tailor",
+    "email": "Stud_jivika_19@fortitude.in",
+    "password": "jivika19",
+    "roll_no": "221019",
+    "course": "B.Tech CSE (IoT)",
+    "dob": "07-07-2005",
+    "year": "Second Year",
+    "cgpa": 7.15,
+    "subjects": {
+      "Internet of Things": {
+        "Internal": 25,
+        "External": 49,
+        "Total": 74,
+        "Attendance": 78
+      },
+      "Embedded Systems": {
+        "Internal": 26,
+        "External": 40,
+        "Total": 66,
+        "Attendance": 66
+      },
+      "Sensor Networks": {
+        "Internal": 25,
+        "External": 69,
+        "Total": 94,
+        "Attendance": 95
+      },
+      "Microcontrollers": {
+        "Internal": 22,
+        "External": 47,
+        "Total": 69,
+        "Attendance": 93
+      },
+      "Wireless Communication": {
+        "Internal": 19,
+        "External": 60,
+        "Total": 79,
+        "Attendance": 86
+      }
+    }
+  },
+  {
+    "name": "Abram Issac",
+    "email": "Stud_abram_20@fortitude.in",
+    "password": "abram20",
+    "roll_no": "221020",
+    "course": "B.Tech Civil",
+    "dob": "13-03-2007",
+    "year": "First Year",
+    "cgpa": 6.23,
+    "subjects": {
+      "Structural Engineering": {
+        "Internal": 24,
+        "External": 62,
+        "Total": 86,
+        "Attendance": 93
+      },
+      "Building Materials": {
+        "Internal": 23,
+        "External": 44,
+        "Total": 67,
+        "Attendance": 91
+      },
+      "Environmental Engineering": {
+        "Internal": 20,
+        "External": 47,
+        "Total": 67,
+        "Attendance": 73
+      },
+      "Surveying": {
+        "Internal": 21,
+        "External": 37,
+        "Total": 58,
+        "Attendance": 75
+      },
+      "Fluid Mechanics": {
+        "Internal": 21,
+        "External": 39,
+        "Total": 60,
+        "Attendance": 85
+      }
+    }
+  },
+  {
+    "name": "Adira Sani",
+    "email": "Stud_adira_21@fortitude.in",
+    "password": "adira21",
+    "roll_no": "221021",
+    "course": "B.Tech CSE (AI & ML)",
+    "dob": "01-06-2007",
+    "year": "First Year",
+    "cgpa": 7.57,
+    "subjects": {
+      "Machine Learning": {
+        "Internal": 23,
+        "External": 70,
+        "Total": 93,
+        "Attendance": 61
+      },
+      "Artificial Intelligence": {
+        "Internal": 18,
+        "External": 50,
+        "Total": 68,
+        "Attendance": 87
+      },
+      "Python Programming": {
+        "Internal": 29,
+        "External": 53,
+        "Total": 82,
+        "Attendance": 71
+      },
+      "Data Structures": {
+        "Internal": 22,
+        "External": 42,
+        "Total": 64,
+        "Attendance": 78
+      },
+      "Linear Algebra": {
+        "Internal": 28,
+        "External": 55,
+        "Total": 83,
+        "Attendance": 73
+      }
+    }
+  },
+  {
+    "name": "Navya Sunder",
+    "email": "Stud_navya_22@fortitude.in",
+    "password": "navya22",
+    "roll_no": "221022",
+    "course": "B.Tech Electrical",
+    "dob": "20-12-2006",
+    "year": "First Year",
+    "cgpa": 8.84,
+    "subjects": {
+      "Power Systems": {
+        "Internal": 30,
+        "External": 44,
+        "Total": 74,
+        "Attendance": 89
+      },
+      "Electrical Machines": {
+        "Internal": 21,
+        "External": 61,
+        "Total": 82,
+        "Attendance": 74
+      },
+      "Circuit Theory": {
+        "Internal": 26,
+        "External": 62,
+        "Total": 88,
+        "Attendance": 85
+      },
+      "Control Systems": {
+        "Internal": 26,
+        "External": 47,
+        "Total": 73,
+        "Attendance": 84
+      },
+      "Renewable Energy Sources": {
+        "Internal": 19,
+        "External": 66,
+        "Total": 85,
+        "Attendance": 62
+      }
+    }
+  },
+  {
+    "name": "Elakshi Sami",
+    "email": "Stud_elakshi_23@fortitude.in",
+    "password": "elakshi23",
+    "roll_no": "221023",
+    "course": "B.Tech IT",
+    "dob": "27-05-2006",
+    "year": "Second Year",
+    "cgpa": 7.81,
+    "subjects": {
+      "Web Development": {
+        "Internal": 29,
+        "External": 41,
+        "Total": 70,
+        "Attendance": 68
+      },
+      "Software Engineering": {
+        "Internal": 19,
+        "External": 64,
+        "Total": 83,
+        "Attendance": 82
+      },
+      "Database Systems": {
+        "Internal": 26,
+        "External": 36,
+        "Total": 62,
+        "Attendance": 88
+      },
+      "Cloud Computing": {
+        "Internal": 26,
+        "External": 57,
+        "Total": 83,
+        "Attendance": 78
+      },
+      "Data Structures": {
+        "Internal": 23,
+        "External": 48,
+        "Total": 71,
+        "Attendance": 84
+      }
+    }
+  },
+  {
+    "name": "Umang Kumer",
+    "email": "Stud_umang_24@fortitude.in",
+    "password": "umang24",
+    "roll_no": "221024",
+    "course": "B.Tech CSE (AI & ML)",
+    "dob": "07-02-2003",
+    "year": "First Year",
+    "cgpa": 7.93,
+    "subjects": {
+      "Machine Learning": {
+        "Internal": 30,
+        "External": 41,
+        "Total": 71,
+        "Attendance": 97
+      },
+      "Artificial Intelligence": {
+        "Internal": 28,
+        "External": 55,
+        "Total": 83,
+        "Attendance": 65
+      },
+      "Python Programming": {
+        "Internal": 30,
+        "External": 48,
+        "Total": 78,
+        "Attendance": 84
+      },
+      "Data Structures": {
+        "Internal": 20,
+        "External": 61,
+        "Total": 81,
+        "Attendance": 68
+      },
+      "Linear Algebra": {
+        "Internal": 25,
+        "External": 43,
+        "Total": 68,
+        "Attendance": 60
+      }
+    }
+  },
+  {
+    "name": "Tanya Roy",
+    "email": "Stud_tanya_25@fortitude.in",
+    "password": "tanya25",
+    "roll_no": "221025",
+    "course": "B.Tech CSE (IoT)",
+    "dob": "17-05-2004",
+    "year": "First Year",
+    "cgpa": 7.26,
+    "subjects": {
+      "Internet of Things": {
+        "Internal": 19,
+        "External": 44,
+        "Total": 63,
+        "Attendance": 74
+      },
+      "Embedded Systems": {
+        "Internal": 25,
+        "External": 62,
+        "Total": 87,
+        "Attendance": 72
+      },
+      "Sensor Networks": {
+        "Internal": 28,
+        "External": 60,
+        "Total": 88,
+        "Attendance": 63
+      },
+      "Microcontrollers": {
+        "Internal": 18,
+        "External": 44,
+        "Total": 62,
+        "Attendance": 67
+      },
+      "Wireless Communication": {
+        "Internal": 25,
+        "External": 40,
+        "Total": 65,
+        "Attendance": 68
+      }
+    }
+  },
+  {
+    "name": "Samaira Tank",
+    "email": "Stud_samaira_26@fortitude.in",
+    "password": "samaira26",
+    "roll_no": "221026",
+    "course": "B.Tech CSE (AI & ML)",
+    "dob": "15-07-2003",
+    "year": "Third Year",
+    "cgpa": 7.67,
+    "subjects": {
+      "Machine Learning": {
+        "Internal": 30,
+        "External": 48,
+        "Total": 78,
+        "Attendance": 75
+      },
+      "Artificial Intelligence": {
+        "Internal": 21,
+        "External": 62,
+        "Total": 83,
+        "Attendance": 81
+      },
+      "Python Programming": {
+        "Internal": 28,
+        "External": 44,
+        "Total": 72,
+        "Attendance": 65
+      },
+      "Data Structures": {
+        "Internal": 28,
+        "External": 35,
+        "Total": 63,
+        "Attendance": 78
+      },
+      "Linear Algebra": {
+        "Internal": 23,
+        "External": 60,
+        "Total": 83,
+        "Attendance": 82
+      }
+    }
+  },
+  {
+    "name": "Aradhya Saha",
+    "email": "Stud_aradhya_27@fortitude.in",
+    "password": "aradhya27",
+    "roll_no": "221027",
+    "course": "B.Tech CSE (Cyber Security)",
+    "dob": "22-01-2005",
+    "year": "First Year",
+    "cgpa": 6.22,
+    "subjects": {
+      "Network Security": {
+        "Internal": 19,
+        "External": 42,
+        "Total": 61,
+        "Attendance": 75
+      },
+      "Ethical Hacking": {
+        "Internal": 22,
+        "External": 50,
+        "Total": 72,
+        "Attendance": 68
+      },
+      "Cryptography": {
+        "Internal": 26,
+        "External": 35,
+        "Total": 61,
+        "Attendance": 98
+      },
+      "Cyber Laws": {
+        "Internal": 30,
+        "External": 69,
+        "Total": 99,
+        "Attendance": 76
+      },
+      "Operating Systems": {
+        "Internal": 24,
+        "External": 70,
+        "Total": 94,
+        "Attendance": 83
+      }
+    }
+  },
+  {
+    "name": "Jayan Ganesh",
+    "email": "Stud_jayan_28@fortitude.in",
+    "password": "jayan28",
+    "roll_no": "221028",
+    "course": "B.Tech ECE",
+    "dob": "12-09-2005",
+    "year": "Second Year",
+    "cgpa": 9.22,
+    "subjects": {
+      "Digital Electronics": {
+        "Internal": 18,
+        "External": 53,
+        "Total": 71,
+        "Attendance": 82
+      },
+      "Microprocessors": {
+        "Internal": 23,
+        "External": 35,
+        "Total": 58,
+        "Attendance": 82
+      },
+      "Signal Processing": {
+        "Internal": 26,
+        "External": 35,
+        "Total": 61,
+        "Attendance": 78
+      },
+      "Analog Circuits": {
+        "Internal": 19,
+        "External": 59,
+        "Total": 78,
+        "Attendance": 71
+      },
+      "Control Systems": {
+        "Internal": 27,
+        "External": 55,
+        "Total": 82,
+        "Attendance": 88
+      }
+    }
+  },
+  {
+    "name": "Ishita Hayre",
+    "email": "Stud_ishita_29@fortitude.in",
+    "password": "ishita29",
+    "roll_no": "221029",
+    "course": "B.Tech CSE (Data Science)",
+    "dob": "16-06-2003",
+    "year": "Second Year",
+    "cgpa": 7.52,
+    "subjects": {
+      "Data Science Fundamentals": {
+        "Internal": 28,
+        "External": 39,
+        "Total": 67,
+        "Attendance": 72
+      },
+      "Statistics for DS": {
+        "Internal": 21,
+        "External": 57,
+        "Total": 78,
+        "Attendance": 87
+      },
+      "Database Systems": {
+        "Internal": 30,
+        "External": 65,
+        "Total": 95,
+        "Attendance": 78
+      },
+      "Python Programming": {
+        "Internal": 28,
+        "External": 70,
+        "Total": 98,
+        "Attendance": 94
+      },
+      "Machine Learning": {
+        "Internal": 20,
+        "External": 59,
+        "Total": 79,
+        "Attendance": 61
+      }
+    }
+  },
+  {
+    "name": "Samaira Kari",
+    "email": "Stud_samaira_30@fortitude.in",
+    "password": "samaira30",
+    "roll_no": "221030",
+    "course": "B.Tech IT",
+    "dob": "17-02-2006",
+    "year": "First Year",
+    "cgpa": 8.9,
+    "subjects": {
+      "Web Development": {
+        "Internal": 28,
+        "External": 45,
+        "Total": 73,
+        "Attendance": 72
+      },
+      "Software Engineering": {
+        "Internal": 23,
+        "External": 46,
+        "Total": 69,
+        "Attendance": 66
+      },
+      "Database Systems": {
+        "Internal": 20,
+        "External": 41,
+        "Total": 61,
+        "Attendance": 77
+      },
+      "Cloud Computing": {
+        "Internal": 19,
+        "External": 39,
+        "Total": 58,
+        "Attendance": 83
+      },
+      "Data Structures": {
+        "Internal": 18,
+        "External": 51,
+        "Total": 69,
+        "Attendance": 83
+      }
+    }
+  },
+  {
+    "name": "Kaira Sood",
+    "email": "Stud_kaira_31@fortitude.in",
+    "password": "kaira31",
+    "roll_no": "221031",
+    "course": "B.Tech CSE (IoT)",
+    "dob": "10-09-2005",
+    "year": "Third Year",
+    "cgpa": 7.56,
+    "subjects": {
+      "Internet of Things": {
+        "Internal": 27,
+        "External": 51,
+        "Total": 78,
+        "Attendance": 93
+      },
+      "Embedded Systems": {
+        "Internal": 30,
+        "External": 70,
+        "Total": 100,
+        "Attendance": 67
+      },
+      "Sensor Networks": {
+        "Internal": 28,
+        "External": 69,
+        "Total": 97,
+        "Attendance": 67
+      },
+      "Microcontrollers": {
+        "Internal": 23,
+        "External": 53,
+        "Total": 76,
+        "Attendance": 79
+      },
+      "Wireless Communication": {
+        "Internal": 25,
+        "External": 50,
+        "Total": 75,
+        "Attendance": 60
+      }
+    }
+  },
+  {
+    "name": "Advik Chandra",
+    "email": "Stud_advik_32@fortitude.in",
+    "password": "advik32",
+    "roll_no": "221032",
+    "course": "B.Tech CSE (Data Science)",
+    "dob": "27-10-2007",
+    "year": "First Year",
+    "cgpa": 8.35,
+    "subjects": {
+      "Data Science Fundamentals": {
+        "Internal": 30,
+        "External": 63,
+        "Total": 93,
+        "Attendance": 84
+      },
+      "Statistics for DS": {
+        "Internal": 23,
+        "External": 46,
+        "Total": 69,
+        "Attendance": 68
+      },
+      "Database Systems": {
+        "Internal": 24,
+        "External": 35,
+        "Total": 59,
+        "Attendance": 86
+      },
+      "Python Programming": {
+        "Internal": 21,
+        "External": 50,
+        "Total": 71,
+        "Attendance": 60
+      },
+      "Machine Learning": {
+        "Internal": 30,
+        "External": 61,
+        "Total": 91,
+        "Attendance": 68
+      }
+    }
+  },
+  {
+    "name": "Dhruv Thakur",
+    "email": "Stud_dhruv_33@fortitude.in",
+    "password": "dhruv33",
+    "roll_no": "221033",
+    "course": "B.Tech CSE (Data Science)",
+    "dob": "04-12-2005",
+    "year": "Second Year",
+    "cgpa": 8.04,
+    "subjects": {
+      "Data Science Fundamentals": {
+        "Internal": 24,
+        "External": 45,
+        "Total": 69,
+        "Attendance": 84
+      },
+      "Statistics for DS": {
+        "Internal": 22,
+        "External": 39,
+        "Total": 61,
+        "Attendance": 61
+      },
+      "Database Systems": {
+        "Internal": 19,
+        "External": 60,
+        "Total": 79,
+        "Attendance": 77
+      },
+      "Python Programming": {
+        "Internal": 27,
+        "External": 38,
+        "Total": 65,
+        "Attendance": 94
+      },
+      "Machine Learning": {
+        "Internal": 29,
+        "External": 47,
+        "Total": 76,
+        "Attendance": 79
+      }
+    }
+  },
+  {
+    "name": "Abram Wason",
+    "email": "Stud_abram_34@fortitude.in",
+    "password": "abram34",
+    "roll_no": "221034",
+    "course": "B.Tech IT",
+    "dob": "29-10-2005",
+    "year": "Third Year",
+    "cgpa": 9.77,
+    "subjects": {
+      "Web Development": {
+        "Internal": 28,
+        "External": 44,
+        "Total": 72,
+        "Attendance": 79
+      },
+      "Software Engineering": {
+        "Internal": 22,
+        "External": 47,
+        "Total": 69,
+        "Attendance": 87
+      },
+      "Database Systems": {
+        "Internal": 21,
+        "External": 66,
+        "Total": 87,
+        "Attendance": 62
+      },
+      "Cloud Computing": {
+        "Internal": 24,
+        "External": 39,
+        "Total": 63,
+        "Attendance": 69
+      },
+      "Data Structures": {
+        "Internal": 20,
+        "External": 38,
+        "Total": 58,
+        "Attendance": 95
+      }
+    }
+  },
+  {
+    "name": "Manikya Jain",
+    "email": "Stud_manikya_35@fortitude.in",
+    "password": "manikya35",
+    "roll_no": "221035",
+    "course": "B.Tech CSE (Cyber Security)",
+    "dob": "11-05-2007",
+    "year": "First Year",
+    "cgpa": 7.71,
+    "subjects": {
+      "Network Security": {
+        "Internal": 21,
+        "External": 60,
+        "Total": 81,
+        "Attendance": 96
+      },
+      "Ethical Hacking": {
+        "Internal": 29,
+        "External": 62,
+        "Total": 91,
+        "Attendance": 94
+      },
+      "Cryptography": {
+        "Internal": 23,
+        "External": 39,
+        "Total": 62,
+        "Attendance": 73
+      },
+      "Cyber Laws": {
+        "Internal": 19,
+        "External": 63,
+        "Total": 82,
+        "Attendance": 62
+      },
+      "Operating Systems": {
+        "Internal": 26,
+        "External": 54,
+        "Total": 80,
+        "Attendance": 61
+      }
+    }
+  },
+  {
+    "name": "Damini Sengupta",
+    "email": "Stud_damini_36@fortitude.in",
+    "password": "damini36",
+    "roll_no": "221036",
+    "course": "B.Tech CSE (Cyber Security)",
+    "dob": "05-05-2003",
+    "year": "First Year",
+    "cgpa": 6.59,
+    "subjects": {
+      "Network Security": {
+        "Internal": 28,
+        "External": 68,
+        "Total": 96,
+        "Attendance": 66
+      },
+      "Ethical Hacking": {
+        "Internal": 29,
+        "External": 38,
+        "Total": 67,
+        "Attendance": 86
+      },
+      "Cryptography": {
+        "Internal": 30,
+        "External": 65,
+        "Total": 95,
+        "Attendance": 84
+      },
+      "Cyber Laws": {
+        "Internal": 23,
+        "External": 46,
+        "Total": 69,
+        "Attendance": 85
+      },
+      "Operating Systems": {
+        "Internal": 24,
+        "External": 41,
+        "Total": 65,
+        "Attendance": 65
+      }
+    }
+  },
+  {
+    "name": "Navya Dhawan",
+    "email": "Stud_navya_37@fortitude.in",
+    "password": "navya37",
+    "roll_no": "221037",
+    "course": "B.Tech CSE (AI & ML)",
+    "dob": "16-01-2007",
+    "year": "Second Year",
+    "cgpa": 6.58,
+    "subjects": {
+      "Machine Learning": {
+        "Internal": 30,
+        "External": 43,
+        "Total": 73,
+        "Attendance": 97
+      },
+      "Artificial Intelligence": {
+        "Internal": 22,
+        "External": 58,
+        "Total": 80,
+        "Attendance": 92
+      },
+      "Python Programming": {
+        "Internal": 24,
+        "External": 51,
+        "Total": 75,
+        "Attendance": 78
+      },
+      "Data Structures": {
+        "Internal": 24,
+        "External": 46,
+        "Total": 70,
+        "Attendance": 94
+      },
+      "Linear Algebra": {
+        "Internal": 26,
+        "External": 70,
+        "Total": 96,
+        "Attendance": 65
+      }
+    }
+  },
+  {
+    "name": "Tarini Rau",
+    "email": "Stud_tarini_38@fortitude.in",
+    "password": "tarini38",
+    "roll_no": "221038",
+    "course": "B.Tech CSE (AI & ML)",
+    "dob": "26-10-2004",
+    "year": "Second Year",
+    "cgpa": 7.98,
+    "subjects": {
+      "Machine Learning": {
+        "Internal": 27,
+        "External": 41,
+        "Total": 68,
+        "Attendance": 89
+      },
+      "Artificial Intelligence": {
+        "Internal": 28,
+        "External": 50,
+        "Total": 78,
+        "Attendance": 95
+      },
+      "Python Programming": {
+        "Internal": 25,
+        "External": 36,
+        "Total": 61,
+        "Attendance": 83
+      },
+      "Data Structures": {
+        "Internal": 22,
+        "External": 64,
+        "Total": 86,
+        "Attendance": 83
+      },
+      "Linear Algebra": {
+        "Internal": 28,
+        "External": 53,
+        "Total": 81,
+        "Attendance": 94
+      }
+    }
+  },
+  {
+    "name": "Inaaya  Khurana",
+    "email": "Stud_inaaya _39@fortitude.in",
+    "password": "inaaya 39",
+    "roll_no": "221039",
+    "course": "B.Tech ECE",
+    "dob": "05-05-2004",
+    "year": "Second Year",
+    "cgpa": 6.64,
+    "subjects": {
+      "Digital Electronics": {
+        "Internal": 23,
+        "External": 38,
+        "Total": 61,
+        "Attendance": 97
+      },
+      "Microprocessors": {
+        "Internal": 19,
+        "External": 66,
+        "Total": 85,
+        "Attendance": 83
+      },
+      "Signal Processing": {
+        "Internal": 30,
+        "External": 61,
+        "Total": 91,
+        "Attendance": 71
+      },
+      "Analog Circuits": {
+        "Internal": 19,
+        "External": 39,
+        "Total": 58,
+        "Attendance": 74
+      },
+      "Control Systems": {
+        "Internal": 27,
+        "External": 59,
+        "Total": 86,
+        "Attendance": 68
+      }
+    }
+  },
+  {
+    "name": "Indrans Loyal",
+    "email": "Stud_indrans_40@fortitude.in",
+    "password": "indrans40",
+    "roll_no": "221040",
+    "course": "B.Tech Electrical",
+    "dob": "13-08-2006",
+    "year": "First Year",
+    "cgpa": 8.9,
+    "subjects": {
+      "Power Systems": {
+        "Internal": 25,
+        "External": 68,
+        "Total": 93,
+        "Attendance": 74
+      },
+      "Electrical Machines": {
+        "Internal": 28,
+        "External": 68,
+        "Total": 96,
+        "Attendance": 91
+      },
+      "Circuit Theory": {
+        "Internal": 23,
+        "External": 55,
+        "Total": 78,
+        "Attendance": 98
+      },
+      "Control Systems": {
+        "Internal": 28,
+        "External": 61,
+        "Total": 89,
+        "Attendance": 77
+      },
+      "Renewable Energy Sources": {
+        "Internal": 23,
+        "External": 65,
+        "Total": 88,
+        "Attendance": 71
+      }
+    }
+  },
+  {
+    "name": "Uthkarsh Sheth",
+    "email": "Stud_uthkarsh_41@fortitude.in",
+    "password": "uthkarsh41",
+    "roll_no": "221041",
+    "course": "B.Tech CSE (Cyber Security)",
+    "dob": "04-10-2006",
+    "year": "First Year",
+    "cgpa": 8.77,
+    "subjects": {
+      "Network Security": {
+        "Internal": 18,
+        "External": 68,
+        "Total": 86,
+        "Attendance": 69
+      },
+      "Ethical Hacking": {
+        "Internal": 23,
+        "External": 37,
+        "Total": 60,
+        "Attendance": 68
+      },
+      "Cryptography": {
+        "Internal": 20,
+        "External": 45,
+        "Total": 65,
+        "Attendance": 85
+      },
+      "Cyber Laws": {
+        "Internal": 29,
+        "External": 46,
+        "Total": 75,
+        "Attendance": 95
+      },
+      "Operating Systems": {
+        "Internal": 21,
+        "External": 67,
+        "Total": 88,
+        "Attendance": 71
+      }
+    }
+  },
+  {
+    "name": "Azad Ahluwalia",
+    "email": "Stud_azad_42@fortitude.in",
+    "password": "azad42",
+    "roll_no": "221042",
+    "course": "B.Tech Civil",
+    "dob": "24-12-2003",
+    "year": "First Year",
+    "cgpa": 7.79,
+    "subjects": {
+      "Structural Engineering": {
+        "Internal": 22,
+        "External": 57,
+        "Total": 79,
+        "Attendance": 92
+      },
+      "Building Materials": {
+        "Internal": 28,
+        "External": 63,
+        "Total": 91,
+        "Attendance": 74
+      },
+      "Environmental Engineering": {
+        "Internal": 19,
+        "External": 62,
+        "Total": 81,
+        "Attendance": 90
+      },
+      "Surveying": {
+        "Internal": 24,
+        "External": 55,
+        "Total": 79,
+        "Attendance": 63
+      },
+      "Fluid Mechanics": {
+        "Internal": 28,
+        "External": 62,
+        "Total": 90,
+        "Attendance": 86
+      }
+    }
+  },
+  {
+    "name": "Amani Char",
+    "email": "Stud_amani_43@fortitude.in",
+    "password": "amani43",
+    "roll_no": "221043",
+    "course": "B.Tech CSE (Data Science)",
+    "dob": "05-01-2003",
+    "year": "Third Year",
+    "cgpa": 7.68,
+    "subjects": {
+      "Data Science Fundamentals": {
+        "Internal": 18,
+        "External": 42,
+        "Total": 60,
+        "Attendance": 62
+      },
+      "Statistics for DS": {
+        "Internal": 29,
+        "External": 57,
+        "Total": 86,
+        "Attendance": 83
+      },
+      "Database Systems": {
+        "Internal": 23,
+        "External": 50,
+        "Total": 73,
+        "Attendance": 95
+      },
+      "Python Programming": {
+        "Internal": 29,
+        "External": 70,
+        "Total": 99,
+        "Attendance": 90
+      },
+      "Machine Learning": {
+        "Internal": 29,
+        "External": 56,
+        "Total": 85,
+        "Attendance": 74
+      }
+    }
+  },
+  {
+    "name": "Onkar Sura",
+    "email": "Stud_onkar_44@fortitude.in",
+    "password": "onkar44",
+    "roll_no": "221044",
+    "course": "B.Tech CSE (AI & ML)",
+    "dob": "29-10-2005",
+    "year": "Second Year",
+    "cgpa": 6.48,
+    "subjects": {
+      "Machine Learning": {
+        "Internal": 25,
+        "External": 47,
+        "Total": 72,
+        "Attendance": 90
+      },
+      "Artificial Intelligence": {
+        "Internal": 24,
+        "External": 35,
+        "Total": 59,
+        "Attendance": 82
+      },
+      "Python Programming": {
+        "Internal": 28,
+        "External": 43,
+        "Total": 71,
+        "Attendance": 77
+      },
+      "Data Structures": {
+        "Internal": 23,
+        "External": 69,
+        "Total": 92,
+        "Attendance": 79
+      },
+      "Linear Algebra": {
+        "Internal": 28,
+        "External": 39,
+        "Total": 67,
+        "Attendance": 82
+      }
+    }
+  },
+  {
+    "name": "Piya Deshpande",
+    "email": "Stud_piya_45@fortitude.in",
+    "password": "piya45",
+    "roll_no": "221045",
+    "course": "B.Tech CSE (Cyber Security)",
+    "dob": "12-07-2006",
+    "year": "First Year",
+    "cgpa": 6.45,
+    "subjects": {
+      "Network Security": {
+        "Internal": 20,
+        "External": 68,
+        "Total": 88,
+        "Attendance": 60
+      },
+      "Ethical Hacking": {
+        "Internal": 27,
+        "External": 66,
+        "Total": 93,
+        "Attendance": 92
+      },
+      "Cryptography": {
+        "Internal": 24,
+        "External": 60,
+        "Total": 84,
+        "Attendance": 91
+      },
+      "Cyber Laws": {
+        "Internal": 19,
+        "External": 47,
+        "Total": 66,
+        "Attendance": 71
+      },
+      "Operating Systems": {
+        "Internal": 23,
+        "External": 49,
+        "Total": 72,
+        "Attendance": 81
+      }
+    }
+  },
+  {
+    "name": "Myra Kade",
+    "email": "Stud_myra_46@fortitude.in",
+    "password": "myra46",
+    "roll_no": "221046",
+    "course": "B.Tech ME",
+    "dob": "02-11-2002",
+    "year": "Final Year",
+    "cgpa": 6.44,
+    "subjects": {
+      "Thermodynamics": {
+        "Internal": 19,
+        "External": 57,
+        "Total": 76,
+        "Attendance": 92
+      },
+      "Fluid Mechanics": {
+        "Internal": 24,
+        "External": 41,
+        "Total": 65,
+        "Attendance": 72
+      },
+      "Manufacturing Processes": {
+        "Internal": 22,
+        "External": 40,
+        "Total": 62,
+        "Attendance": 67
+      },
+      "Machine Design": {
+        "Internal": 23,
+        "External": 46,
+        "Total": 69,
+        "Attendance": 72
+      },
+      "Engineering Mechanics": {
+        "Internal": 19,
+        "External": 39,
+        "Total": 58,
+        "Attendance": 87
+      }
+    }
+  },
+  {
+    "name": "Emir Ranganathan",
+    "email": "Stud_emir_47@fortitude.in",
+    "password": "emir47",
+    "roll_no": "221047",
+    "course": "B.Tech Civil",
+    "dob": "14-05-2003",
+    "year": "Final Year",
+    "cgpa": 9.61,
+    "subjects": {
+      "Structural Engineering": {
+        "Internal": 29,
+        "External": 37,
+        "Total": 66,
+        "Attendance": 86
+      },
+      "Building Materials": {
+        "Internal": 18,
+        "External": 41,
+        "Total": 59,
+        "Attendance": 79
+      },
+      "Environmental Engineering": {
+        "Internal": 26,
+        "External": 60,
+        "Total": 86,
+        "Attendance": 84
+      },
+      "Surveying": {
+        "Internal": 29,
+        "External": 56,
+        "Total": 85,
+        "Attendance": 83
+      },
+      "Fluid Mechanics": {
+        "Internal": 23,
+        "External": 39,
+        "Total": 62,
+        "Attendance": 81
+      }
+    }
+  },
+  {
+    "name": "Diya Goel",
+    "email": "Stud_diya_48@fortitude.in",
+    "password": "diya48",
+    "roll_no": "221048",
+    "course": "B.Tech CSE (IoT)",
+    "dob": "03-08-2003",
+    "year": "First Year",
+    "cgpa": 6.1,
+    "subjects": {
+      "Internet of Things": {
+        "Internal": 24,
+        "External": 67,
+        "Total": 91,
+        "Attendance": 80
+      },
+      "Embedded Systems": {
+        "Internal": 18,
+        "External": 48,
+        "Total": 66,
+        "Attendance": 78
+      },
+      "Sensor Networks": {
+        "Internal": 23,
+        "External": 53,
+        "Total": 76,
+        "Attendance": 69
+      },
+      "Microcontrollers": {
+        "Internal": 23,
+        "External": 65,
+        "Total": 88,
+        "Attendance": 83
+      },
+      "Wireless Communication": {
+        "Internal": 21,
+        "External": 69,
+        "Total": 90,
+        "Attendance": 62
+      }
+    }
+  },
+  {
+    "name": "Dharmajan Kalita",
+    "email": "Stud_dharmajan_49@fortitude.in",
+    "password": "dharmajan49",
+    "roll_no": "221049",
+    "course": "B.Tech Civil",
+    "dob": "27-11-2002",
+    "year": "Second Year",
+    "cgpa": 6.79,
+    "subjects": {
+      "Structural Engineering": {
+        "Internal": 21,
+        "External": 65,
+        "Total": 86,
+        "Attendance": 95
+      },
+      "Building Materials": {
+        "Internal": 21,
+        "External": 54,
+        "Total": 75,
+        "Attendance": 70
+      },
+      "Environmental Engineering": {
+        "Internal": 21,
+        "External": 64,
+        "Total": 85,
+        "Attendance": 90
+      },
+      "Surveying": {
+        "Internal": 30,
+        "External": 56,
+        "Total": 86,
+        "Attendance": 90
+      },
+      "Fluid Mechanics": {
+        "Internal": 28,
+        "External": 63,
+        "Total": 91,
+        "Attendance": 89
+      }
+    }
+  },
+  {
+    "name": "Yashvi Loyal",
+    "email": "Stud_yashvi_50@fortitude.in",
+    "password": "yashvi50",
+    "roll_no": "221050",
+    "course": "B.Tech IT",
+    "dob": "16-01-2006",
+    "year": "Final Year",
+    "cgpa": 8.73,
+    "subjects": {
+      "Web Development": {
+        "Internal": 22,
+        "External": 40,
+        "Total": 62,
+        "Attendance": 85
+      },
+      "Software Engineering": {
+        "Internal": 25,
+        "External": 41,
+        "Total": 66,
+        "Attendance": 80
+      },
+      "Database Systems": {
+        "Internal": 24,
+        "External": 68,
+        "Total": 92,
+        "Attendance": 68
+      },
+      "Cloud Computing": {
+        "Internal": 21,
+        "External": 38,
+        "Total": 59,
+        "Attendance": 70
+      },
+      "Data Structures": {
+        "Internal": 29,
+        "External": 61,
+        "Total": 90,
+        "Attendance": 92
+      }
+    }
+  },
+  {
+    "name": "Devansh Mahajan",
+    "email": "Stud_devansh_51@fortitude.in",
+    "password": "devansh51",
+    "roll_no": "221051",
+    "course": "B.Tech Civil",
+    "dob": "09-04-2006",
+    "year": "Third Year",
+    "cgpa": 8.31,
+    "subjects": {
+      "Structural Engineering": {
+        "Internal": 30,
+        "External": 53,
+        "Total": 83,
+        "Attendance": 71
+      },
+      "Building Materials": {
+        "Internal": 26,
+        "External": 50,
+        "Total": 76,
+        "Attendance": 86
+      },
+      "Environmental Engineering": {
+        "Internal": 30,
+        "External": 40,
+        "Total": 70,
+        "Attendance": 97
+      },
+      "Surveying": {
+        "Internal": 24,
+        "External": 70,
+        "Total": 94,
+        "Attendance": 64
+      },
+      "Fluid Mechanics": {
+        "Internal": 23,
+        "External": 64,
+        "Total": 87,
+        "Attendance": 68
+      }
+    }
+  },
+  {
+    "name": "Aniruddh Edwin",
+    "email": "Stud_aniruddh_52@fortitude.in",
+    "password": "aniruddh52",
+    "roll_no": "221052",
+    "course": "B.Tech CSE (IoT)",
+    "dob": "24-01-2005",
+    "year": "Third Year",
+    "cgpa": 8.66,
+    "subjects": {
+      "Internet of Things": {
+        "Internal": 20,
+        "External": 43,
+        "Total": 63,
+        "Attendance": 79
+      },
+      "Embedded Systems": {
+        "Internal": 24,
+        "External": 44,
+        "Total": 68,
+        "Attendance": 70
+      },
+      "Sensor Networks": {
+        "Internal": 25,
+        "External": 52,
+        "Total": 77,
+        "Attendance": 74
+      },
+      "Microcontrollers": {
+        "Internal": 27,
+        "External": 47,
+        "Total": 74,
+        "Attendance": 78
+      },
+      "Wireless Communication": {
+        "Internal": 21,
+        "External": 38,
+        "Total": 59,
+        "Attendance": 79
+      }
+    }
+  },
+  {
+    "name": "Anaya Babu",
+    "email": "Stud_anaya_53@fortitude.in",
+    "password": "anaya53",
+    "roll_no": "221053",
+    "course": "B.Tech CSE (Cyber Security)",
+    "dob": "11-08-2007",
+    "year": "Final Year",
+    "cgpa": 6.1,
+    "subjects": {
+      "Network Security": {
+        "Internal": 20,
+        "External": 56,
+        "Total": 76,
+        "Attendance": 70
+      },
+      "Ethical Hacking": {
+        "Internal": 23,
+        "External": 37,
+        "Total": 60,
+        "Attendance": 66
+      },
+      "Cryptography": {
+        "Internal": 21,
+        "External": 37,
+        "Total": 58,
+        "Attendance": 82
+      },
+      "Cyber Laws": {
+        "Internal": 21,
+        "External": 40,
+        "Total": 61,
+        "Attendance": 71
+      },
+      "Operating Systems": {
+        "Internal": 25,
+        "External": 62,
+        "Total": 87,
+        "Attendance": 71
+      }
+    }
+  },
+  {
+    "name": "Shamik Johal",
+    "email": "Stud_shamik_54@fortitude.in",
+    "password": "shamik54",
+    "roll_no": "221054",
+    "course": "B.Tech CSE (Data Science)",
+    "dob": "18-10-2005",
+    "year": "First Year",
+    "cgpa": 8.3,
+    "subjects": {
+      "Data Science Fundamentals": {
+        "Internal": 21,
+        "External": 41,
+        "Total": 62,
+        "Attendance": 86
+      },
+      "Statistics for DS": {
+        "Internal": 20,
+        "External": 50,
+        "Total": 70,
+        "Attendance": 79
+      },
+      "Database Systems": {
+        "Internal": 20,
+        "External": 63,
+        "Total": 83,
+        "Attendance": 68
+      },
+      "Python Programming": {
+        "Internal": 27,
+        "External": 58,
+        "Total": 85,
+        "Attendance": 85
+      },
+      "Machine Learning": {
+        "Internal": 18,
+        "External": 66,
+        "Total": 84,
+        "Attendance": 79
+      }
+    }
+  },
+  {
+    "name": "Anay Reddy",
+    "email": "Stud_anay_55@fortitude.in",
+    "password": "anay55",
+    "roll_no": "221055",
+    "course": "B.Tech ME",
+    "dob": "24-03-2004",
+    "year": "Final Year",
+    "cgpa": 8.76,
+    "subjects": {
+      "Thermodynamics": {
+        "Internal": 20,
+        "External": 44,
+        "Total": 64,
+        "Attendance": 72
+      },
+      "Fluid Mechanics": {
+        "Internal": 21,
+        "External": 54,
+        "Total": 75,
+        "Attendance": 88
+      },
+      "Manufacturing Processes": {
+        "Internal": 26,
+        "External": 44,
+        "Total": 70,
+        "Attendance": 97
+      },
+      "Machine Design": {
+        "Internal": 29,
+        "External": 47,
+        "Total": 76,
+        "Attendance": 70
+      },
+      "Engineering Mechanics": {
+        "Internal": 26,
+        "External": 45,
+        "Total": 71,
+        "Attendance": 74
+      }
+    }
+  },
+  {
+    "name": "Aaina Balay",
+    "email": "Stud_aaina_56@fortitude.in",
+    "password": "aaina56",
+    "roll_no": "221056",
+    "course": "B.Tech Civil",
+    "dob": "22-01-2004",
+    "year": "First Year",
+    "cgpa": 6.36,
+    "subjects": {
+      "Structural Engineering": {
+        "Internal": 28,
+        "External": 46,
+        "Total": 74,
+        "Attendance": 61
+      },
+      "Building Materials": {
+        "Internal": 25,
+        "External": 60,
+        "Total": 85,
+        "Attendance": 74
+      },
+      "Environmental Engineering": {
+        "Internal": 26,
+        "External": 49,
+        "Total": 75,
+        "Attendance": 87
+      },
+      "Surveying": {
+        "Internal": 29,
+        "External": 39,
+        "Total": 68,
+        "Attendance": 77
+      },
+      "Fluid Mechanics": {
+        "Internal": 22,
+        "External": 70,
+        "Total": 92,
+        "Attendance": 79
+      }
+    }
+  },
+  {
+    "name": "Umang Sami",
+    "email": "Stud_umang_57@fortitude.in",
+    "password": "umang57",
+    "roll_no": "221057",
+    "course": "B.Tech IT",
+    "dob": "31-10-2004",
+    "year": "Second Year",
+    "cgpa": 9.67,
+    "subjects": {
+      "Web Development": {
+        "Internal": 27,
+        "External": 48,
+        "Total": 75,
+        "Attendance": 72
+      },
+      "Software Engineering": {
+        "Internal": 18,
+        "External": 40,
+        "Total": 58,
+        "Attendance": 86
+      },
+      "Database Systems": {
+        "Internal": 26,
+        "External": 54,
+        "Total": 80,
+        "Attendance": 91
+      },
+      "Cloud Computing": {
+        "Internal": 19,
+        "External": 46,
+        "Total": 65,
+        "Attendance": 89
+      },
+      "Data Structures": {
+        "Internal": 23,
+        "External": 67,
+        "Total": 90,
+        "Attendance": 64
+      }
+    }
+  },
+  {
+    "name": "Shanaya Baral",
+    "email": "Stud_shanaya_58@fortitude.in",
+    "password": "shanaya58",
+    "roll_no": "221058",
+    "course": "B.Tech ME",
+    "dob": "27-04-2003",
+    "year": "Third Year",
+    "cgpa": 6.36,
+    "subjects": {
+      "Thermodynamics": {
+        "Internal": 25,
+        "External": 36,
+        "Total": 61,
+        "Attendance": 69
+      },
+      "Fluid Mechanics": {
+        "Internal": 22,
+        "External": 56,
+        "Total": 78,
+        "Attendance": 68
+      },
+      "Manufacturing Processes": {
+        "Internal": 25,
+        "External": 64,
+        "Total": 89,
+        "Attendance": 79
+      },
+      "Machine Design": {
+        "Internal": 19,
+        "External": 66,
+        "Total": 85,
+        "Attendance": 90
+      },
+      "Engineering Mechanics": {
+        "Internal": 23,
+        "External": 58,
+        "Total": 81,
+        "Attendance": 67
+      }
+    }
+  },
+  {
+    "name": "Tara Lad",
+    "email": "Stud_tara_59@fortitude.in",
+    "password": "tara59",
+    "roll_no": "221059",
+    "course": "B.Tech CSE (Cyber Security)",
+    "dob": "16-02-2006",
+    "year": "Third Year",
+    "cgpa": 9.65,
+    "subjects": {
+      "Network Security": {
+        "Internal": 29,
+        "External": 51,
+        "Total": 80,
+        "Attendance": 77
+      },
+      "Ethical Hacking": {
+        "Internal": 27,
+        "External": 68,
+        "Total": 95,
+        "Attendance": 65
+      },
+      "Cryptography": {
+        "Internal": 19,
+        "External": 35,
+        "Total": 54,
+        "Attendance": 82
+      },
+      "Cyber Laws": {
+        "Internal": 23,
+        "External": 63,
+        "Total": 86,
+        "Attendance": 88
+      },
+      "Operating Systems": {
+        "Internal": 24,
+        "External": 44,
+        "Total": 68,
+        "Attendance": 71
+      }
+    }
+  },
+  {
+    "name": "Heer Dua",
+    "email": "Stud_heer_60@fortitude.in",
+    "password": "heer60",
+    "roll_no": "221060",
+    "course": "B.Tech CSE (Cyber Security)",
+    "dob": "29-01-2004",
+    "year": "Second Year",
+    "cgpa": 8.46,
+    "subjects": {
+      "Network Security": {
+        "Internal": 23,
+        "External": 48,
+        "Total": 71,
+        "Attendance": 88
+      },
+      "Ethical Hacking": {
+        "Internal": 30,
+        "External": 44,
+        "Total": 74,
+        "Attendance": 95
+      },
+      "Cryptography": {
+        "Internal": 21,
+        "External": 62,
+        "Total": 83,
+        "Attendance": 83
+      },
+      "Cyber Laws": {
+        "Internal": 24,
+        "External": 45,
+        "Total": 69,
+        "Attendance": 76
+      },
+      "Operating Systems": {
+        "Internal": 27,
+        "External": 58,
+        "Total": 85,
+        "Attendance": 85
+      }
+    }
+  },
+  {
+    "name": "Neysa Som",
+    "email": "Stud_neysa_61@fortitude.in",
+    "password": "neysa61",
+    "roll_no": "221061",
+    "course": "B.Tech Electrical",
+    "dob": "23-04-2005",
+    "year": "Final Year",
+    "cgpa": 8.61,
+    "subjects": {
+      "Power Systems": {
+        "Internal": 18,
+        "External": 49,
+        "Total": 67,
+        "Attendance": 90
+      },
+      "Electrical Machines": {
+        "Internal": 21,
+        "External": 49,
+        "Total": 70,
+        "Attendance": 69
+      },
+      "Circuit Theory": {
+        "Internal": 27,
+        "External": 57,
+        "Total": 84,
+        "Attendance": 88
+      },
+      "Control Systems": {
+        "Internal": 30,
+        "External": 55,
+        "Total": 85,
+        "Attendance": 60
+      },
+      "Renewable Energy Sources": {
+        "Internal": 28,
+        "External": 64,
+        "Total": 92,
+        "Attendance": 81
+      }
+    }
+  },
+  {
+    "name": "Urvi Tiwari",
+    "email": "Stud_urvi_62@fortitude.in",
+    "password": "urvi62",
+    "roll_no": "221062",
+    "course": "B.Tech Civil",
+    "dob": "22-02-2006",
+    "year": "First Year",
+    "cgpa": 6.9,
+    "subjects": {
+      "Structural Engineering": {
+        "Internal": 22,
+        "External": 43,
+        "Total": 65,
+        "Attendance": 77
+      },
+      "Building Materials": {
+        "Internal": 20,
+        "External": 66,
+        "Total": 86,
+        "Attendance": 71
+      },
+      "Environmental Engineering": {
+        "Internal": 28,
+        "External": 45,
+        "Total": 73,
+        "Attendance": 75
+      },
+      "Surveying": {
+        "Internal": 26,
+        "External": 43,
+        "Total": 69,
+        "Attendance": 71
+      },
+      "Fluid Mechanics": {
+        "Internal": 28,
+        "External": 52,
+        "Total": 80,
+        "Attendance": 85
+      }
+    }
+  },
+  {
+    "name": "Tushar Bhatnagar",
+    "email": "Stud_tushar_63@fortitude.in",
+    "password": "tushar63",
+    "roll_no": "221063",
+    "course": "B.Tech Electrical",
+    "dob": "20-05-2007",
+    "year": "Final Year",
+    "cgpa": 6.21,
+    "subjects": {
+      "Power Systems": {
+        "Internal": 27,
+        "External": 61,
+        "Total": 88,
+        "Attendance": 76
+      },
+      "Electrical Machines": {
+        "Internal": 30,
+        "External": 55,
+        "Total": 85,
+        "Attendance": 68
+      },
+      "Circuit Theory": {
+        "Internal": 19,
+        "External": 49,
+        "Total": 68,
+        "Attendance": 88
+      },
+      "Control Systems": {
+        "Internal": 28,
+        "External": 54,
+        "Total": 82,
+        "Attendance": 65
+      },
+      "Renewable Energy Sources": {
+        "Internal": 23,
+        "External": 45,
+        "Total": 68,
+        "Attendance": 86
+      }
+    }
+  },
+  {
+    "name": "Shayak Kuruvilla",
+    "email": "Stud_shayak_64@fortitude.in",
+    "password": "shayak64",
+    "roll_no": "221064",
+    "course": "B.Tech IT",
+    "dob": "07-11-2003",
+    "year": "Final Year",
+    "cgpa": 8.07,
+    "subjects": {
+      "Web Development": {
+        "Internal": 25,
+        "External": 37,
+        "Total": 62,
+        "Attendance": 63
+      },
+      "Software Engineering": {
+        "Internal": 21,
+        "External": 44,
+        "Total": 65,
+        "Attendance": 89
+      },
+      "Database Systems": {
+        "Internal": 30,
+        "External": 62,
+        "Total": 92,
+        "Attendance": 74
+      },
+      "Cloud Computing": {
+        "Internal": 19,
+        "External": 68,
+        "Total": 87,
+        "Attendance": 91
+      },
+      "Data Structures": {
+        "Internal": 18,
+        "External": 58,
+        "Total": 76,
+        "Attendance": 68
+      }
+    }
+  },
+  {
+    "name": "Mohanlal Chacko",
+    "email": "Stud_mohanlal_65@fortitude.in",
+    "password": "mohanlal65",
+    "roll_no": "221065",
+    "course": "B.Tech CSE (Cyber Security)",
+    "dob": "13-02-2006",
+    "year": "Second Year",
+    "cgpa": 6.08,
+    "subjects": {
+      "Network Security": {
+        "Internal": 19,
+        "External": 39,
+        "Total": 58,
+        "Attendance": 92
+      },
+      "Ethical Hacking": {
+        "Internal": 26,
+        "External": 67,
+        "Total": 93,
+        "Attendance": 90
+      },
+      "Cryptography": {
+        "Internal": 26,
+        "External": 66,
+        "Total": 92,
+        "Attendance": 78
+      },
+      "Cyber Laws": {
+        "Internal": 28,
+        "External": 47,
+        "Total": 75,
+        "Attendance": 80
+      },
+      "Operating Systems": {
+        "Internal": 30,
+        "External": 60,
+        "Total": 90,
+        "Attendance": 72
+      }
+    }
+  },
+  {
+    "name": "Adah Balasubramanian",
+    "email": "Stud_adah_66@fortitude.in",
+    "password": "adah66",
+    "roll_no": "221066",
+    "course": "B.Tech Electrical",
+    "dob": "28-12-2003",
+    "year": "Second Year",
+    "cgpa": 9.14,
+    "subjects": {
+      "Power Systems": {
+        "Internal": 18,
+        "External": 68,
+        "Total": 86,
+        "Attendance": 72
+      },
+      "Electrical Machines": {
+        "Internal": 28,
+        "External": 54,
+        "Total": 82,
+        "Attendance": 77
+      },
+      "Circuit Theory": {
+        "Internal": 25,
+        "External": 53,
+        "Total": 78,
+        "Attendance": 68
+      },
+      "Control Systems": {
+        "Internal": 26,
+        "External": 60,
+        "Total": 86,
+        "Attendance": 80
+      },
+      "Renewable Energy Sources": {
+        "Internal": 20,
+        "External": 50,
+        "Total": 70,
+        "Attendance": 69
+      }
+    }
+  },
+  {
+    "name": "Amani Sami",
+    "email": "Stud_amani_67@fortitude.in",
+    "password": "amani67",
+    "roll_no": "221067",
+    "course": "B.Tech CSE (Data Science)",
+    "dob": "04-01-2003",
+    "year": "Third Year",
+    "cgpa": 8.41,
+    "subjects": {
+      "Data Science Fundamentals": {
+        "Internal": 23,
+        "External": 41,
+        "Total": 64,
+        "Attendance": 88
+      },
+      "Statistics for DS": {
+        "Internal": 18,
+        "External": 36,
+        "Total": 54,
+        "Attendance": 83
+      },
+      "Database Systems": {
+        "Internal": 27,
+        "External": 37,
+        "Total": 64,
+        "Attendance": 85
+      },
+      "Python Programming": {
+        "Internal": 29,
+        "External": 56,
+        "Total": 85,
+        "Attendance": 66
+      },
+      "Machine Learning": {
+        "Internal": 20,
+        "External": 47,
+        "Total": 67,
+        "Attendance": 79
+      }
+    }
+  },
+  {
+    "name": "Stuvan Kar",
+    "email": "Stud_stuvan_68@fortitude.in",
+    "password": "stuvan68",
+    "roll_no": "221068",
+    "course": "B.Tech ME",
+    "dob": "02-09-2006",
+    "year": "Second Year",
+    "cgpa": 7.68,
+    "subjects": {
+      "Thermodynamics": {
+        "Internal": 28,
+        "External": 54,
+        "Total": 82,
+        "Attendance": 72
+      },
+      "Fluid Mechanics": {
+        "Internal": 27,
+        "External": 56,
+        "Total": 83,
+        "Attendance": 78
+      },
+      "Manufacturing Processes": {
+        "Internal": 25,
+        "External": 51,
+        "Total": 76,
+        "Attendance": 91
+      },
+      "Machine Design": {
+        "Internal": 23,
+        "External": 67,
+        "Total": 90,
+        "Attendance": 97
+      },
+      "Engineering Mechanics": {
+        "Internal": 23,
+        "External": 45,
+        "Total": 68,
+        "Attendance": 89
+      }
+    }
+  },
+  {
+    "name": "Romil Kala",
+    "email": "Stud_romil_69@fortitude.in",
+    "password": "romil69",
+    "roll_no": "221069",
+    "course": "B.Tech Civil",
+    "dob": "27-01-2003",
+    "year": "First Year",
+    "cgpa": 8.45,
+    "subjects": {
+      "Structural Engineering": {
+        "Internal": 20,
+        "External": 62,
+        "Total": 82,
+        "Attendance": 63
+      },
+      "Building Materials": {
+        "Internal": 28,
+        "External": 58,
+        "Total": 86,
+        "Attendance": 85
+      },
+      "Environmental Engineering": {
+        "Internal": 28,
+        "External": 66,
+        "Total": 94,
+        "Attendance": 73
+      },
+      "Surveying": {
+        "Internal": 21,
+        "External": 56,
+        "Total": 77,
+        "Attendance": 61
+      },
+      "Fluid Mechanics": {
+        "Internal": 21,
+        "External": 49,
+        "Total": 70,
+        "Attendance": 70
+      }
+    }
+  },
+  {
+    "name": "Indranil Lal",
+    "email": "Stud_indranil_70@fortitude.in",
+    "password": "indranil70",
+    "roll_no": "221070",
+    "course": "B.Tech CSE (IoT)",
+    "dob": "06-08-2005",
+    "year": "Third Year",
+    "cgpa": 6.94,
+    "subjects": {
+      "Internet of Things": {
+        "Internal": 20,
+        "External": 67,
+        "Total": 87,
+        "Attendance": 84
+      },
+      "Embedded Systems": {
+        "Internal": 24,
+        "External": 47,
+        "Total": 71,
+        "Attendance": 60
+      },
+      "Sensor Networks": {
+        "Internal": 19,
+        "External": 49,
+        "Total": 68,
+        "Attendance": 70
+      },
+      "Microcontrollers": {
+        "Internal": 21,
+        "External": 38,
+        "Total": 59,
+        "Attendance": 91
+      },
+      "Wireless Communication": {
+        "Internal": 23,
+        "External": 56,
+        "Total": 79,
+        "Attendance": 73
+      }
+    }
+  },
+  {
+    "name": "Ela Kurian",
+    "email": "Stud_ela_71@fortitude.in",
+    "password": "ela71",
+    "roll_no": "221071",
+    "course": "B.Tech ME",
+    "dob": "27-07-2007",
+    "year": "Final Year",
+    "cgpa": 8.14,
+    "subjects": {
+      "Thermodynamics": {
+        "Internal": 19,
+        "External": 69,
+        "Total": 88,
+        "Attendance": 79
+      },
+      "Fluid Mechanics": {
+        "Internal": 28,
+        "External": 59,
+        "Total": 87,
+        "Attendance": 71
+      },
+      "Manufacturing Processes": {
+        "Internal": 27,
+        "External": 62,
+        "Total": 89,
+        "Attendance": 71
+      },
+      "Machine Design": {
+        "Internal": 23,
+        "External": 49,
+        "Total": 72,
+        "Attendance": 82
+      },
+      "Engineering Mechanics": {
+        "Internal": 26,
+        "External": 37,
+        "Total": 63,
+        "Attendance": 71
+      }
+    }
+  },
+  {
+    "name": "Hiran Garg",
+    "email": "Stud_hiran_72@fortitude.in",
+    "password": "hiran72",
+    "roll_no": "221072",
+    "course": "B.Tech ME",
+    "dob": "01-02-2007",
+    "year": "Third Year",
+    "cgpa": 8.95,
+    "subjects": {
+      "Thermodynamics": {
+        "Internal": 30,
+        "External": 42,
+        "Total": 72,
+        "Attendance": 61
+      },
+      "Fluid Mechanics": {
+        "Internal": 25,
+        "External": 36,
+        "Total": 61,
+        "Attendance": 63
+      },
+      "Manufacturing Processes": {
+        "Internal": 24,
+        "External": 39,
+        "Total": 63,
+        "Attendance": 70
+      },
+      "Machine Design": {
+        "Internal": 29,
+        "External": 41,
+        "Total": 70,
+        "Attendance": 68
+      },
+      "Engineering Mechanics": {
+        "Internal": 23,
+        "External": 47,
+        "Total": 70,
+        "Attendance": 76
+      }
+    }
+  },
+  {
+    "name": "Ehsaan Mahajan",
+    "email": "Stud_ehsaan_73@fortitude.in",
+    "password": "ehsaan73",
+    "roll_no": "221073",
+    "course": "B.Tech CSE (Cyber Security)",
+    "dob": "21-12-2005",
+    "year": "Second Year",
+    "cgpa": 8.86,
+    "subjects": {
+      "Network Security": {
+        "Internal": 25,
+        "External": 36,
+        "Total": 61,
+        "Attendance": 62
+      },
+      "Ethical Hacking": {
+        "Internal": 19,
+        "External": 67,
+        "Total": 86,
+        "Attendance": 73
+      },
+      "Cryptography": {
+        "Internal": 25,
+        "External": 56,
+        "Total": 81,
+        "Attendance": 95
+      },
+      "Cyber Laws": {
+        "Internal": 20,
+        "External": 45,
+        "Total": 65,
+        "Attendance": 91
+      },
+      "Operating Systems": {
+        "Internal": 29,
+        "External": 65,
+        "Total": 94,
+        "Attendance": 97
+      }
+    }
+  },
+  {
+    "name": "Mamooty Warrior",
+    "email": "Stud_mamooty_74@fortitude.in",
+    "password": "mamooty74",
+    "roll_no": "221074",
+    "course": "B.Tech CSE (Cyber Security)",
+    "dob": "07-09-2007",
+    "year": "First Year",
+    "cgpa": 7.61,
+    "subjects": {
+      "Network Security": {
+        "Internal": 25,
+        "External": 39,
+        "Total": 64,
+        "Attendance": 82
+      },
+      "Ethical Hacking": {
+        "Internal": 28,
+        "External": 39,
+        "Total": 67,
+        "Attendance": 69
+      },
+      "Cryptography": {
+        "Internal": 25,
+        "External": 69,
+        "Total": 94,
+        "Attendance": 74
+      },
+      "Cyber Laws": {
+        "Internal": 26,
+        "External": 43,
+        "Total": 69,
+        "Attendance": 75
+      },
+      "Operating Systems": {
+        "Internal": 21,
+        "External": 50,
+        "Total": 71,
+        "Attendance": 70
+      }
+    }
+  },
+  {
+    "name": "Shlok Batra",
+    "email": "Stud_shlok_75@fortitude.in",
+    "password": "shlok75",
+    "roll_no": "221075",
+    "course": "B.Tech CSE (Data Science)",
+    "dob": "22-02-2005",
+    "year": "Third Year",
+    "cgpa": 8.91,
+    "subjects": {
+      "Data Science Fundamentals": {
+        "Internal": 22,
+        "External": 41,
+        "Total": 63,
+        "Attendance": 75
+      },
+      "Statistics for DS": {
+        "Internal": 21,
+        "External": 35,
+        "Total": 56,
+        "Attendance": 76
+      },
+      "Database Systems": {
+        "Internal": 23,
+        "External": 58,
+        "Total": 81,
+        "Attendance": 67
+      },
+      "Python Programming": {
+        "Internal": 21,
+        "External": 67,
+        "Total": 88,
+        "Attendance": 79
+      },
+      "Machine Learning": {
+        "Internal": 18,
+        "External": 39,
+        "Total": 57,
+        "Attendance": 77
+      }
+    }
+  },
+  {
+    "name": "Dishani Dara",
+    "email": "Stud_dishani_76@fortitude.in",
+    "password": "dishani76",
+    "roll_no": "221076",
+    "course": "B.Tech CSE (Data Science)",
+    "dob": "24-07-2004",
+    "year": "Final Year",
+    "cgpa": 6.93,
+    "subjects": {
+      "Data Science Fundamentals": {
+        "Internal": 23,
+        "External": 64,
+        "Total": 87,
+        "Attendance": 73
+      },
+      "Statistics for DS": {
+        "Internal": 26,
+        "External": 62,
+        "Total": 88,
+        "Attendance": 91
+      },
+      "Database Systems": {
+        "Internal": 18,
+        "External": 39,
+        "Total": 57,
+        "Attendance": 63
+      },
+      "Python Programming": {
+        "Internal": 19,
+        "External": 41,
+        "Total": 60,
+        "Attendance": 90
+      },
+      "Machine Learning": {
+        "Internal": 24,
+        "External": 47,
+        "Total": 71,
+        "Attendance": 93
+      }
+    }
+  },
+  {
+    "name": "Samarth Deo",
+    "email": "Stud_samarth_77@fortitude.in",
+    "password": "samarth77",
+    "roll_no": "221077",
+    "course": "B.Tech Electrical",
+    "dob": "22-03-2006",
+    "year": "First Year",
+    "cgpa": 9.49,
+    "subjects": {
+      "Power Systems": {
+        "Internal": 29,
+        "External": 48,
+        "Total": 77,
+        "Attendance": 82
+      },
+      "Electrical Machines": {
+        "Internal": 29,
+        "External": 44,
+        "Total": 73,
+        "Attendance": 68
+      },
+      "Circuit Theory": {
+        "Internal": 29,
+        "External": 45,
+        "Total": 74,
+        "Attendance": 97
+      },
+      "Control Systems": {
+        "Internal": 28,
+        "External": 54,
+        "Total": 82,
+        "Attendance": 76
+      },
+      "Renewable Energy Sources": {
+        "Internal": 19,
+        "External": 63,
+        "Total": 82,
+        "Attendance": 61
+      }
+    }
+  },
+  {
+    "name": "Azad Krishna",
+    "email": "Stud_azad_78@fortitude.in",
+    "password": "azad78",
+    "roll_no": "221078",
+    "course": "B.Tech CSE (Data Science)",
+    "dob": "08-07-2003",
+    "year": "Third Year",
+    "cgpa": 9.23,
+    "subjects": {
+      "Data Science Fundamentals": {
+        "Internal": 19,
+        "External": 51,
+        "Total": 70,
+        "Attendance": 86
+      },
+      "Statistics for DS": {
+        "Internal": 28,
+        "External": 64,
+        "Total": 92,
+        "Attendance": 81
+      },
+      "Database Systems": {
+        "Internal": 19,
+        "External": 43,
+        "Total": 62,
+        "Attendance": 89
+      },
+      "Python Programming": {
+        "Internal": 28,
+        "External": 43,
+        "Total": 71,
+        "Attendance": 94
+      },
+      "Machine Learning": {
+        "Internal": 27,
+        "External": 54,
+        "Total": 81,
+        "Attendance": 94
+      }
+    }
+  },
+  {
+    "name": "Kiaan Krishnan",
+    "email": "Stud_kiaan_79@fortitude.in",
+    "password": "kiaan79",
+    "roll_no": "221079",
+    "course": "B.Tech Electrical",
+    "dob": "12-07-2004",
+    "year": "Third Year",
+    "cgpa": 9.36,
+    "subjects": {
+      "Power Systems": {
+        "Internal": 28,
+        "External": 53,
+        "Total": 81,
+        "Attendance": 70
+      },
+      "Electrical Machines": {
+        "Internal": 21,
+        "External": 49,
+        "Total": 70,
+        "Attendance": 89
+      },
+      "Circuit Theory": {
+        "Internal": 23,
+        "External": 39,
+        "Total": 62,
+        "Attendance": 65
+      },
+      "Control Systems": {
+        "Internal": 25,
+        "External": 50,
+        "Total": 75,
+        "Attendance": 88
+      },
+      "Renewable Energy Sources": {
+        "Internal": 24,
+        "External": 50,
+        "Total": 74,
+        "Attendance": 84
+      }
+    }
+  },
+  {
+    "name": "Tara Walla",
+    "email": "Stud_tara_80@fortitude.in",
+    "password": "tara80",
+    "roll_no": "221080",
+    "course": "B.Tech IT",
+    "dob": "24-12-2002",
+    "year": "Third Year",
+    "cgpa": 8.04,
+    "subjects": {
+      "Web Development": {
+        "Internal": 26,
+        "External": 52,
+        "Total": 78,
+        "Attendance": 95
+      },
+      "Software Engineering": {
+        "Internal": 27,
+        "External": 70,
+        "Total": 97,
+        "Attendance": 61
+      },
+      "Database Systems": {
+        "Internal": 29,
+        "External": 68,
+        "Total": 97,
+        "Attendance": 66
+      },
+      "Cloud Computing": {
+        "Internal": 25,
+        "External": 43,
+        "Total": 68,
+        "Attendance": 68
+      },
+      "Data Structures": {
+        "Internal": 25,
+        "External": 62,
+        "Total": 87,
+        "Attendance": 68
+      }
+    }
+  },
+  {
+    "name": "Kartik Desai",
+    "email": "Stud_kartik_81@fortitude.in",
+    "password": "kartik81",
+    "roll_no": "221081",
+    "course": "B.Tech Civil",
+    "dob": "21-08-2007",
+    "year": "First Year",
+    "cgpa": 9.27,
+    "subjects": {
+      "Structural Engineering": {
+        "Internal": 22,
+        "External": 43,
+        "Total": 65,
+        "Attendance": 75
+      },
+      "Building Materials": {
+        "Internal": 19,
+        "External": 41,
+        "Total": 60,
+        "Attendance": 97
+      },
+      "Environmental Engineering": {
+        "Internal": 22,
+        "External": 56,
+        "Total": 78,
+        "Attendance": 68
+      },
+      "Surveying": {
+        "Internal": 23,
+        "External": 62,
+        "Total": 85,
+        "Attendance": 78
+      },
+      "Fluid Mechanics": {
+        "Internal": 19,
+        "External": 50,
+        "Total": 69,
+        "Attendance": 96
+      }
+    }
+  },
+  {
+    "name": "Mehul Basak",
+    "email": "Stud_mehul_82@fortitude.in",
+    "password": "mehul82",
+    "roll_no": "221082",
+    "course": "B.Tech CSE (AI & ML)",
+    "dob": "12-07-2005",
+    "year": "Final Year",
+    "cgpa": 7.41,
+    "subjects": {
+      "Machine Learning": {
+        "Internal": 30,
+        "External": 37,
+        "Total": 67,
+        "Attendance": 76
+      },
+      "Artificial Intelligence": {
+        "Internal": 21,
+        "External": 53,
+        "Total": 74,
+        "Attendance": 89
+      },
+      "Python Programming": {
+        "Internal": 28,
+        "External": 69,
+        "Total": 97,
+        "Attendance": 73
+      },
+      "Data Structures": {
+        "Internal": 25,
+        "External": 39,
+        "Total": 64,
+        "Attendance": 73
+      },
+      "Linear Algebra": {
+        "Internal": 21,
+        "External": 45,
+        "Total": 66,
+        "Attendance": 92
+      }
+    }
+  },
+  {
+    "name": "Dharmajan Garde",
+    "email": "Stud_dharmajan_83@fortitude.in",
+    "password": "dharmajan83",
+    "roll_no": "221083",
+    "course": "B.Tech IT",
+    "dob": "20-07-2007",
+    "year": "Second Year",
+    "cgpa": 7.19,
+    "subjects": {
+      "Web Development": {
+        "Internal": 22,
+        "External": 40,
+        "Total": 62,
+        "Attendance": 85
+      },
+      "Software Engineering": {
+        "Internal": 23,
+        "External": 50,
+        "Total": 73,
+        "Attendance": 86
+      },
+      "Database Systems": {
+        "Internal": 29,
+        "External": 63,
+        "Total": 92,
+        "Attendance": 70
+      },
+      "Cloud Computing": {
+        "Internal": 18,
+        "External": 53,
+        "Total": 71,
+        "Attendance": 92
+      },
+      "Data Structures": {
+        "Internal": 27,
+        "External": 35,
+        "Total": 62,
+        "Attendance": 74
+      }
+    }
+  },
+  {
+    "name": "Heer Bhavsar",
+    "email": "Stud_heer_84@fortitude.in",
+    "password": "heer84",
+    "roll_no": "221084",
+    "course": "B.Tech Civil",
+    "dob": "18-05-2007",
+    "year": "Final Year",
+    "cgpa": 6.65,
+    "subjects": {
+      "Structural Engineering": {
+        "Internal": 22,
+        "External": 54,
+        "Total": 76,
+        "Attendance": 79
+      },
+      "Building Materials": {
+        "Internal": 30,
+        "External": 38,
+        "Total": 68,
+        "Attendance": 75
+      },
+      "Environmental Engineering": {
+        "Internal": 25,
+        "External": 49,
+        "Total": 74,
+        "Attendance": 60
+      },
+      "Surveying": {
+        "Internal": 18,
+        "External": 58,
+        "Total": 76,
+        "Attendance": 78
+      },
+      "Fluid Mechanics": {
+        "Internal": 20,
+        "External": 62,
+        "Total": 82,
+        "Attendance": 96
+      }
+    }
+  },
+  {
+    "name": "Himmat Srivastava",
+    "email": "Stud_himmat_85@fortitude.in",
+    "password": "himmat85",
+    "roll_no": "221085",
+    "course": "B.Tech CSE (Data Science)",
+    "dob": "13-12-2006",
+    "year": "Second Year",
+    "cgpa": 8.91,
+    "subjects": {
+      "Data Science Fundamentals": {
+        "Internal": 20,
+        "External": 36,
+        "Total": 56,
+        "Attendance": 95
+      },
+      "Statistics for DS": {
+        "Internal": 20,
+        "External": 42,
+        "Total": 62,
+        "Attendance": 69
+      },
+      "Database Systems": {
+        "Internal": 20,
+        "External": 70,
+        "Total": 90,
+        "Attendance": 95
+      },
+      "Python Programming": {
+        "Internal": 26,
+        "External": 68,
+        "Total": 94,
+        "Attendance": 60
+      },
+      "Machine Learning": {
+        "Internal": 18,
+        "External": 40,
+        "Total": 58,
+        "Attendance": 75
+      }
+    }
+  },
+  {
+    "name": "Bhamini Setty",
+    "email": "Stud_bhamini_86@fortitude.in",
+    "password": "bhamini86",
+    "roll_no": "221086",
+    "course": "B.Tech Civil",
+    "dob": "22-03-2006",
+    "year": "Final Year",
+    "cgpa": 8.54,
+    "subjects": {
+      "Structural Engineering": {
+        "Internal": 30,
+        "External": 68,
+        "Total": 98,
+        "Attendance": 92
+      },
+      "Building Materials": {
+        "Internal": 23,
+        "External": 46,
+        "Total": 69,
+        "Attendance": 86
+      },
+      "Environmental Engineering": {
+        "Internal": 25,
+        "External": 41,
+        "Total": 66,
+        "Attendance": 61
+      },
+      "Surveying": {
+        "Internal": 29,
+        "External": 51,
+        "Total": 80,
+        "Attendance": 73
+      },
+      "Fluid Mechanics": {
+        "Internal": 28,
+        "External": 59,
+        "Total": 87,
+        "Attendance": 98
+      }
+    }
+  },
+  {
+    "name": "Urvi Atwal",
+    "email": "Stud_urvi_87@fortitude.in",
+    "password": "urvi87",
+    "roll_no": "221087",
+    "course": "B.Tech ECE",
+    "dob": "07-01-2005",
+    "year": "First Year",
+    "cgpa": 8.04,
+    "subjects": {
+      "Digital Electronics": {
+        "Internal": 20,
+        "External": 47,
+        "Total": 67,
+        "Attendance": 78
+      },
+      "Microprocessors": {
+        "Internal": 30,
+        "External": 46,
+        "Total": 76,
+        "Attendance": 91
+      },
+      "Signal Processing": {
+        "Internal": 18,
+        "External": 60,
+        "Total": 78,
+        "Attendance": 68
+      },
+      "Analog Circuits": {
+        "Internal": 23,
+        "External": 66,
+        "Total": 89,
+        "Attendance": 94
+      },
+      "Control Systems": {
+        "Internal": 25,
+        "External": 53,
+        "Total": 78,
+        "Attendance": 69
+      }
+    }
+  },
+  {
+    "name": "Riya Thaman",
+    "email": "Stud_riya_88@fortitude.in",
+    "password": "riya88",
+    "roll_no": "221088",
+    "course": "B.Tech CSE (Data Science)",
+    "dob": "01-10-2007",
+    "year": "Second Year",
+    "cgpa": 9.05,
+    "subjects": {
+      "Data Science Fundamentals": {
+        "Internal": 25,
+        "External": 55,
+        "Total": 80,
+        "Attendance": 64
+      },
+      "Statistics for DS": {
+        "Internal": 21,
+        "External": 58,
+        "Total": 79,
+        "Attendance": 61
+      },
+      "Database Systems": {
+        "Internal": 21,
+        "External": 54,
+        "Total": 75,
+        "Attendance": 91
+      },
+      "Python Programming": {
+        "Internal": 28,
+        "External": 61,
+        "Total": 89,
+        "Attendance": 62
+      },
+      "Machine Learning": {
+        "Internal": 30,
+        "External": 65,
+        "Total": 95,
+        "Attendance": 89
+      }
+    }
+  },
+  {
+    "name": "Aradhya Garde",
+    "email": "Stud_aradhya_89@fortitude.in",
+    "password": "aradhya89",
+    "roll_no": "221089",
+    "course": "B.Tech CSE (Cyber Security)",
+    "dob": "14-03-2006",
+    "year": "Second Year",
+    "cgpa": 9.25,
+    "subjects": {
+      "Network Security": {
+        "Internal": 19,
+        "External": 70,
+        "Total": 89,
+        "Attendance": 98
+      },
+      "Ethical Hacking": {
+        "Internal": 24,
+        "External": 57,
+        "Total": 81,
+        "Attendance": 66
+      },
+      "Cryptography": {
+        "Internal": 28,
+        "External": 47,
+        "Total": 75,
+        "Attendance": 72
+      },
+      "Cyber Laws": {
+        "Internal": 18,
+        "External": 49,
+        "Total": 67,
+        "Attendance": 93
+      },
+      "Operating Systems": {
+        "Internal": 30,
+        "External": 68,
+        "Total": 98,
+        "Attendance": 72
+      }
+    }
+  },
+  {
+    "name": "Mamooty Trivedi",
+    "email": "Stud_mamooty_90@fortitude.in",
+    "password": "mamooty90",
+    "roll_no": "221090",
+    "course": "B.Tech CSE (IoT)",
+    "dob": "05-02-2007",
+    "year": "Third Year",
+    "cgpa": 7.57,
+    "subjects": {
+      "Internet of Things": {
+        "Internal": 30,
+        "External": 46,
+        "Total": 76,
+        "Attendance": 97
+      },
+      "Embedded Systems": {
+        "Internal": 19,
+        "External": 35,
+        "Total": 54,
+        "Attendance": 79
+      },
+      "Sensor Networks": {
+        "Internal": 26,
+        "External": 51,
+        "Total": 77,
+        "Attendance": 87
+      },
+      "Microcontrollers": {
+        "Internal": 28,
+        "External": 40,
+        "Total": 68,
+        "Attendance": 60
+      },
+      "Wireless Communication": {
+        "Internal": 23,
+        "External": 60,
+        "Total": 83,
+        "Attendance": 86
+      }
+    }
+  },
+  {
+    "name": "Gokul Ramaswamy",
+    "email": "Stud_gokul_91@fortitude.in",
+    "password": "gokul91",
+    "roll_no": "221091",
+    "course": "B.Tech ECE",
+    "dob": "19-11-2002",
+    "year": "Third Year",
+    "cgpa": 9.63,
+    "subjects": {
+      "Digital Electronics": {
+        "Internal": 30,
+        "External": 66,
+        "Total": 96,
+        "Attendance": 84
+      },
+      "Microprocessors": {
+        "Internal": 20,
+        "External": 46,
+        "Total": 66,
+        "Attendance": 65
+      },
+      "Signal Processing": {
+        "Internal": 24,
+        "External": 40,
+        "Total": 64,
+        "Attendance": 83
+      },
+      "Analog Circuits": {
+        "Internal": 21,
+        "External": 38,
+        "Total": 59,
+        "Attendance": 60
+      },
+      "Control Systems": {
+        "Internal": 24,
+        "External": 46,
+        "Total": 70,
+        "Attendance": 98
+      }
+    }
+  },
+  {
+    "name": "Yashvi Subramanian",
+    "email": "Stud_yashvi_92@fortitude.in",
+    "password": "yashvi92",
+    "roll_no": "221092",
+    "course": "B.Tech CSE (Data Science)",
+    "dob": "15-01-2007",
+    "year": "Second Year",
+    "cgpa": 7.18,
+    "subjects": {
+      "Data Science Fundamentals": {
+        "Internal": 23,
+        "External": 52,
+        "Total": 75,
+        "Attendance": 96
+      },
+      "Statistics for DS": {
+        "Internal": 20,
+        "External": 54,
+        "Total": 74,
+        "Attendance": 94
+      },
+      "Database Systems": {
+        "Internal": 20,
+        "External": 68,
+        "Total": 88,
+        "Attendance": 90
+      },
+      "Python Programming": {
+        "Internal": 26,
+        "External": 37,
+        "Total": 63,
+        "Attendance": 79
+      },
+      "Machine Learning": {
+        "Internal": 22,
+        "External": 53,
+        "Total": 75,
+        "Attendance": 84
+      }
+    }
+  },
+  {
+    "name": "Shlok Sarin",
+    "email": "Stud_shlok_93@fortitude.in",
+    "password": "shlok93",
+    "roll_no": "221093",
+    "course": "B.Tech CSE (AI & ML)",
+    "dob": "22-10-2007",
+    "year": "First Year",
+    "cgpa": 8.05,
+    "subjects": {
+      "Machine Learning": {
+        "Internal": 23,
+        "External": 40,
+        "Total": 63,
+        "Attendance": 76
+      },
+      "Artificial Intelligence": {
+        "Internal": 19,
+        "External": 69,
+        "Total": 88,
+        "Attendance": 73
+      },
+      "Python Programming": {
+        "Internal": 18,
+        "External": 69,
+        "Total": 87,
+        "Attendance": 92
+      },
+      "Data Structures": {
+        "Internal": 29,
+        "External": 64,
+        "Total": 93,
+        "Attendance": 93
+      },
+      "Linear Algebra": {
+        "Internal": 18,
+        "External": 43,
+        "Total": 61,
+        "Attendance": 78
+      }
+    }
+  },
+  {
+    "name": "Gatik Sant",
+    "email": "Stud_gatik_94@fortitude.in",
+    "password": "gatik94",
+    "roll_no": "221094",
+    "course": "B.Tech IT",
+    "dob": "12-04-2003",
+    "year": "Third Year",
+    "cgpa": 8.08,
+    "subjects": {
+      "Web Development": {
+        "Internal": 22,
+        "External": 46,
+        "Total": 68,
+        "Attendance": 95
+      },
+      "Software Engineering": {
+        "Internal": 21,
+        "External": 48,
+        "Total": 69,
+        "Attendance": 96
+      },
+      "Database Systems": {
+        "Internal": 25,
+        "External": 61,
+        "Total": 86,
+        "Attendance": 75
+      },
+      "Cloud Computing": {
+        "Internal": 18,
+        "External": 45,
+        "Total": 63,
+        "Attendance": 77
+      },
+      "Data Structures": {
+        "Internal": 24,
+        "External": 66,
+        "Total": 90,
+        "Attendance": 63
+      }
+    }
+  },
+  {
+    "name": "Taran Venkataraman",
+    "email": "Stud_taran_95@fortitude.in",
+    "password": "taran95",
+    "roll_no": "221095",
+    "course": "B.Tech ECE",
+    "dob": "02-10-2006",
+    "year": "Third Year",
+    "cgpa": 7.97,
+    "subjects": {
+      "Digital Electronics": {
+        "Internal": 18,
+        "External": 47,
+        "Total": 65,
+        "Attendance": 90
+      },
+      "Microprocessors": {
+        "Internal": 20,
+        "External": 58,
+        "Total": 78,
+        "Attendance": 82
+      },
+      "Signal Processing": {
+        "Internal": 23,
+        "External": 55,
+        "Total": 78,
+        "Attendance": 95
+      },
+      "Analog Circuits": {
+        "Internal": 23,
+        "External": 37,
+        "Total": 60,
+        "Attendance": 67
+      },
+      "Control Systems": {
+        "Internal": 28,
+        "External": 46,
+        "Total": 74,
+        "Attendance": 80
+      }
+    }
+  },
+  {
+    "name": "Taran Sami",
+    "email": "Stud_taran_96@fortitude.in",
+    "password": "taran96",
+    "roll_no": "221096",
+    "course": "B.Tech IT",
+    "dob": "31-05-2006",
+    "year": "Second Year",
+    "cgpa": 7.95,
+    "subjects": {
+      "Web Development": {
+        "Internal": 23,
+        "External": 50,
+        "Total": 73,
+        "Attendance": 90
+      },
+      "Software Engineering": {
+        "Internal": 22,
+        "External": 69,
+        "Total": 91,
+        "Attendance": 95
+      },
+      "Database Systems": {
+        "Internal": 27,
+        "External": 49,
+        "Total": 76,
+        "Attendance": 80
+      },
+      "Cloud Computing": {
+        "Internal": 28,
+        "External": 66,
+        "Total": 94,
+        "Attendance": 82
+      },
+      "Data Structures": {
+        "Internal": 29,
+        "External": 62,
+        "Total": 91,
+        "Attendance": 82
+      }
+    }
+  },
+  {
+    "name": "Saksham Gola",
+    "email": "Stud_saksham_97@fortitude.in",
+    "password": "saksham97",
+    "roll_no": "221097",
+    "course": "B.Tech Civil",
+    "dob": "03-09-2004",
+    "year": "Final Year",
+    "cgpa": 9.25,
+    "subjects": {
+      "Structural Engineering": {
+        "Internal": 27,
+        "External": 41,
+        "Total": 68,
+        "Attendance": 84
+      },
+      "Building Materials": {
+        "Internal": 26,
+        "External": 43,
+        "Total": 69,
+        "Attendance": 94
+      },
+      "Environmental Engineering": {
+        "Internal": 22,
+        "External": 66,
+        "Total": 88,
+        "Attendance": 64
+      },
+      "Surveying": {
+        "Internal": 22,
+        "External": 53,
+        "Total": 75,
+        "Attendance": 67
+      },
+      "Fluid Mechanics": {
+        "Internal": 19,
+        "External": 46,
+        "Total": 65,
+        "Attendance": 91
+      }
+    }
+  },
+  {
+    "name": "Trisha Kapur",
+    "email": "Stud_trisha_98@fortitude.in",
+    "password": "trisha98",
+    "roll_no": "221098",
+    "course": "B.Tech ECE",
+    "dob": "01-10-2005",
+    "year": "Second Year",
+    "cgpa": 9.65,
+    "subjects": {
+      "Digital Electronics": {
+        "Internal": 28,
+        "External": 58,
+        "Total": 86,
+        "Attendance": 64
+      },
+      "Microprocessors": {
+        "Internal": 28,
+        "External": 48,
+        "Total": 76,
+        "Attendance": 82
+      },
+      "Signal Processing": {
+        "Internal": 19,
+        "External": 62,
+        "Total": 81,
+        "Attendance": 67
+      },
+      "Analog Circuits": {
+        "Internal": 28,
+        "External": 62,
+        "Total": 90,
+        "Attendance": 63
+      },
+      "Control Systems": {
+        "Internal": 29,
+        "External": 63,
+        "Total": 92,
+        "Attendance": 71
+      }
+    }
+  },
+  {
+    "name": "Zoya Shetty",
+    "email": "Stud_zoya_99@fortitude.in",
+    "password": "zoya99",
+    "roll_no": "221099",
+    "course": "B.Tech Electrical",
+    "dob": "20-06-2004",
+    "year": "Second Year",
+    "cgpa": 6.23,
+    "subjects": {
+      "Power Systems": {
+        "Internal": 21,
+        "External": 68,
+        "Total": 89,
+        "Attendance": 70
+      },
+      "Electrical Machines": {
+        "Internal": 20,
+        "External": 37,
+        "Total": 57,
+        "Attendance": 60
+      },
+      "Circuit Theory": {
+        "Internal": 26,
+        "External": 45,
+        "Total": 71,
+        "Attendance": 67
+      },
+      "Control Systems": {
+        "Internal": 21,
+        "External": 56,
+        "Total": 77,
+        "Attendance": 62
+      },
+      "Renewable Energy Sources": {
+        "Internal": 26,
+        "External": 50,
+        "Total": 76,
+        "Attendance": 90
+      }
+    }
+  },
+  {
+    "name": "Jivin Halder",
+    "email": "Stud_jivin_100@fortitude.in",
+    "password": "jivin100",
+    "roll_no": "221100",
+    "course": "B.Tech ME",
+    "dob": "14-05-2003",
+    "year": "Third Year",
+    "cgpa": 6.7,
+    "subjects": {
+      "Thermodynamics": {
+        "Internal": 18,
+        "External": 43,
+        "Total": 61,
+        "Attendance": 87
+      },
+      "Fluid Mechanics": {
+        "Internal": 21,
+        "External": 68,
+        "Total": 89,
+        "Attendance": 67
+      },
+      "Manufacturing Processes": {
+        "Internal": 22,
+        "External": 39,
+        "Total": 61,
+        "Attendance": 94
+      },
+      "Machine Design": {
+        "Internal": 19,
+        "External": 36,
+        "Total": 55,
+        "Attendance": 95
+      },
+      "Engineering Mechanics": {
+        "Internal": 29,
+        "External": 40,
+        "Total": 69,
+        "Attendance": 82
+      }
+    }
+  }
+]

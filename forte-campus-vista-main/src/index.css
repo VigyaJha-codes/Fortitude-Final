@@ -1,0 +1,211 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    /* Multi-Color Glass Theme - Fortitude Palette */
+    --background: 225 25% 98%;
+    --foreground: 231 15% 18%;
+
+    /* Glass effect base */
+    --glass-bg: 0 0% 100%;
+    --glass-border: 0 0% 100%;
+    
+    /* Primary - Indigo */
+    --primary: 239 84% 67%;
+    --primary-foreground: 0 0% 100%;
+    --primary-glow: 239 84% 77%;
+    
+    /* Accent - Amber */
+    --accent: 38 92% 50%;
+    --accent-foreground: 0 0% 100%;
+    --accent-glow: 38 100% 60%;
+    
+    /* Success - Emerald */
+    --success: 142 71% 45%;
+    --success-foreground: 0 0% 100%;
+    
+    /* Error - Rose */
+    --destructive: 350 89% 60%;
+    --destructive-foreground: 0 0% 100%;
+    
+    /* Info - Sky */
+    --info: 199 89% 48%;
+    --info-foreground: 0 0% 100%;
+    
+    /* Analytics - Violet */
+    --analytics: 258 90% 66%;
+    --analytics-foreground: 0 0% 100%;
+
+    /* Neutral surfaces */
+    --card: 0 0% 100%;
+    --card-foreground: 231 15% 18%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 231 15% 18%;
+    
+    --secondary: 240 5% 96%;
+    --secondary-foreground: 231 15% 18%;
+    
+    --muted: 240 5% 96%;
+    --muted-foreground: 240 4% 46%;
+    
+    --border: 240 6% 90%;
+    --input: 240 6% 90%;
+    --ring: 239 84% 67%;
+    --radius: 0.75rem;
+
+    /* Gradients */
+    --gradient-primary: linear-gradient(135deg, hsl(var(--primary)) 0%, hsl(var(--analytics)) 100%);
+    --gradient-accent: linear-gradient(135deg, hsl(var(--accent)) 0%, hsl(var(--accent-glow)) 100%);
+    --gradient-hero: linear-gradient(135deg, hsl(239 84% 67%) 0%, hsl(258 90% 66%) 50%, hsl(199 89% 48%) 100%);
+    
+    /* Shadows */
+    --shadow-glass: 0 8px 32px 0 rgba(31, 38, 135, 0.15);
+    --shadow-glow: 0 0 40px rgba(79, 70, 229, 0.3);
+    --shadow-elevated: 0 20px 60px -10px rgba(0, 0, 0, 0.2);
+  }
+
+  .dark {
+    --background: 231 20% 9%;
+    --foreground: 210 40% 98%;
+    
+    --glass-bg: 231 20% 15%;
+    --glass-border: 240 5% 26%;
+
+    --primary: 239 84% 67%;
+    --primary-foreground: 0 0% 100%;
+    --primary-glow: 239 84% 77%;
+    
+    --accent: 38 92% 50%;
+    --accent-foreground: 0 0% 100%;
+    --accent-glow: 38 100% 60%;
+    
+    --success: 142 71% 45%;
+    --success-foreground: 0 0% 100%;
+    
+    --destructive: 350 89% 60%;
+    --destructive-foreground: 0 0% 100%;
+    
+    --info: 199 89% 48%;
+    --info-foreground: 0 0% 100%;
+    
+    --analytics: 258 90% 66%;
+    --analytics-foreground: 0 0% 100%;
+
+    --card: 231 20% 12%;
+    --card-foreground: 210 40% 98%;
+    --popover: 231 20% 12%;
+    --popover-foreground: 210 40% 98%;
+    
+    --secondary: 240 4% 16%;
+    --secondary-foreground: 210 40% 98%;
+    
+    --muted: 240 4% 16%;
+    --muted-foreground: 240 5% 65%;
+    
+    --border: 240 4% 20%;
+    --input: 240 4% 20%;
+    --ring: 239 84% 67%;
+    
+    --shadow-glass: 0 8px 32px 0 rgba(0, 0, 0, 0.4);
+    --shadow-glow: 0 0 40px rgba(79, 70, 229, 0.5);
+    --shadow-elevated: 0 20px 60px -10px rgba(0, 0, 0, 0.5);
+  }
+
+  /* High Contrast Mode */
+  .high-contrast {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 0%;
+    --border: 0 0% 0%;
+    --primary: 239 84% 50%;
+    --card: 0 0% 100%;
+    --muted: 0 0% 95%;
+  }
+
+  .high-contrast.dark {
+    --background: 0 0% 0%;
+    --foreground: 0 0% 100%;
+    --border: 0 0% 100%;
+    --card: 0 0% 5%;
+    --muted: 0 0% 10%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+
+  /* Glass morphism utilities */
+  .glass {
+    background: rgba(255, 255, 255, 0.4);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+  }
+
+  .dark .glass {
+    background: rgba(31, 41, 55, 0.4);
+    border: 1px solid rgba(75, 85, 99, 0.2);
+  }
+
+  .glass-card {
+    @apply glass rounded-xl shadow-[var(--shadow-glass)];
+  }
+
+  /* Font size scaling */
+  .text-scale-100 { font-size: 100%; }
+  .text-scale-125 { font-size: 125%; }
+  .text-scale-150 { font-size: 150%; }
+
+  /* Smooth transitions */
+  .transition-smooth {
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  /* Focus visible for accessibility */
+  *:focus-visible {
+    @apply outline-none ring-2 ring-ring ring-offset-2 ring-offset-background;
+  }
+}
+
+@layer components {
+  /* Gradient text */
+  .gradient-text {
+    background: var(--gradient-primary);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  /* Hover lift effect */
+  .hover-lift {
+    @apply transition-smooth;
+  }
+  
+  .hover-lift:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-elevated);
+  }
+
+  /* Button variants with gradients */
+  .btn-gradient-primary {
+    background: var(--gradient-primary);
+    @apply text-white font-medium shadow-lg hover:shadow-xl transition-smooth;
+  }
+
+  .btn-gradient-accent {
+    background: var(--gradient-accent);
+    @apply text-white font-medium shadow-lg hover:shadow-xl transition-smooth;
+  }
+}
